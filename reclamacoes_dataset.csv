@@ -1,0 +1,2001 @@
+texto_reclamacao,categoria,empresa,estado,valor_envolvido,tempo_resposta_dias
+Valor diferente do acordado,Cobrança Indevida,EletroMax,GO,307.36,2.4
+Cobrança duplicada no cartão,Cobrança Indevida,MegaStore,GO,180.18,2.3
+Cobrança após cancelamento do serviço,Cobrança Indevida,SuperCompras,GO,419.57,2.9
+Não recebi o produto comprado,Entrega,EletroMax,SP,264.27,4.1
+Produto não foi entregue no prazo,Entrega,TechMart,CE,65.93,6.8
+Cobrança duplicada no cartão,Cobrança Indevida,FastDelivery,BA,491.95,5.2
+Produto não corresponde à descrição,Produto Defeituoso,EletroMax,PE,176.85,14.3
+Entrega foi feita no endereço errado,Entrega,SuperCompras,PE,42.29,2.4
+Não recebi o produto comprado,Entrega,FastDelivery,GO,56.48,6.5
+Entrega foi feita no endereço errado,Entrega,FastDelivery,RJ,357.37,2.2
+Entregador foi mal educado,Entrega,SuperCompras,CE,376.31,3.4
+Não recebi o produto comprado,Entrega,TechMart,GO,680.29,5.5
+Cobrança após cancelamento do serviço,Cobrança Indevida,SuperCompras,PE,154.85,5.9
+Produto veio danificado na entrega,Produto Defeituoso,EletroMax,SP,80.49,6.9
+Defeito na tela do celular,Produto Defeituoso,MegaStore,MG,1428.37,11.2
+Produto não corresponde à descrição,Produto Defeituoso,EletroMax,CE,749.01,2.6
+Cobraram valor a mais na fatura,Cobrança Indevida,FastDelivery,RJ,65.8,4.3
+Fui mal atendido na loja física,Atendimento,MegaStore,GO,27.47,11.7
+Cobrança após cancelamento do serviço,Cobrança Indevida,MegaStore,SP,366.43,3.1
+Não consegui resolver meu problema,Atendimento,TechMart,CE,2.54,3.0
+Cobraram valor a mais na fatura,Cobrança Indevida,FastDelivery,RS,455.63,3.2
+Produto não corresponde à descrição,Produto Defeituoso,EletroMax,RS,1888.56,9.4
+Valor diferente do acordado,Cobrança Indevida,SuperCompras,CE,407.9,6.7
+Atendente não soube me informar,Atendimento,FastDelivery,RS,89.26,11.2
+Atendente não soube me informar,Atendimento,TechMart,BA,90.68,6.2
+Cobraram valor a mais na fatura,Cobrança Indevida,FastDelivery,PE,166.3,2.5
+Cobraram valor a mais na fatura,Cobrança Indevida,EletroMax,SP,77.54,4.0
+Cobrança duplicada no cartão,Cobrança Indevida,TechMart,RS,194.54,9.7
+Não recebi o produto comprado,Entrega,SuperCompras,MG,261.68,2.7
+Produto não corresponde à descrição,Produto Defeituoso,TechMart,RJ,1030.22,1.7
+Produto chegou com defeito de fábrica,Produto Defeituoso,TechMart,MG,1377.38,8.4
+Atendente não soube me informar,Atendimento,MegaStore,GO,23.76,14.8
+Entregador foi mal educado,Entrega,FastDelivery,RJ,517.82,4.2
+Produto não foi entregue no prazo,Entrega,TechMart,SC,565.78,6.2
+Produto chegou muito atrasado,Entrega,FastDelivery,MG,577.59,5.9
+Não recebi o produto comprado,Entrega,TechMart,SP,336.13,4.1
+Produto não foi entregue no prazo,Entrega,MegaStore,PE,117.37,6.5
+Funcionário foi grosseiro e mal educado,Atendimento,MegaStore,BA,66.0,16.5
+Defeito na tela do celular,Produto Defeituoso,FastDelivery,SP,521.61,2.3
+Entregador foi mal educado,Entrega,EletroMax,BA,291.05,3.1
+Produto chegou muito atrasado,Entrega,FastDelivery,GO,341.47,6.3
+Produto chegou muito atrasado,Entrega,TechMart,GO,634.71,5.0
+Não consegui resolver meu problema,Atendimento,TechMart,MG,97.37,6.4
+Funcionário foi grosseiro e mal educado,Atendimento,SuperCompras,SC,44.84,19.9
+Produto não foi entregue no prazo,Entrega,FastDelivery,SP,410.3,2.1
+Produto chegou muito atrasado,Entrega,TechMart,SP,447.76,4.1
+Fui mal atendido na loja física,Atendimento,MegaStore,SC,90.61,9.3
+Produto chegou com defeito de fábrica,Produto Defeituoso,FastDelivery,SP,430.72,11.1
+Valor diferente do acordado,Cobrança Indevida,MegaStore,SP,40.93,10.0
+Fui mal atendido na loja física,Atendimento,EletroMax,SC,37.02,1.3
+Entregador foi mal educado,Entrega,TechMart,PR,470.67,6.9
+Entregador foi mal educado,Entrega,EletroMax,BA,236.73,3.9
+Atendimento muito demorado no telefone,Atendimento,SuperCompras,SC,69.6,11.8
+Entrega foi feita no endereço errado,Entrega,SuperCompras,CE,705.58,5.4
+Produto chegou com defeito de fábrica,Produto Defeituoso,MegaStore,SC,751.01,5.1
+Taxa não informada na contratação,Cobrança Indevida,MegaStore,RJ,436.19,9.2
+Atendimento muito demorado no telefone,Atendimento,FastDelivery,RS,65.0,14.3
+Não recebi o produto comprado,Entrega,MegaStore,BA,51.26,4.5
+Produto chegou muito atrasado,Entrega,TechMart,CE,447.84,2.7
+Funcionário foi grosseiro e mal educado,Atendimento,TechMart,RS,3.88,6.8
+Valor diferente do acordado,Cobrança Indevida,EletroMax,SP,417.38,3.4
+Entregador foi mal educado,Entrega,FastDelivery,SC,69.79,4.2
+Cobrança duplicada no cartão,Cobrança Indevida,FastDelivery,RJ,267.82,3.9
+Produto não corresponde à descrição,Produto Defeituoso,FastDelivery,CE,202.99,1.4
+Produto chegou com defeito de fábrica,Produto Defeituoso,FastDelivery,PR,163.48,13.8
+Taxa não informada na contratação,Cobrança Indevida,TechMart,GO,468.61,6.7
+Produto veio danificado na entrega,Produto Defeituoso,EletroMax,BA,143.05,8.9
+Cobrança após cancelamento do serviço,Cobrança Indevida,TechMart,PR,65.2,3.8
+Atendente não soube me informar,Atendimento,EletroMax,CE,76.34,16.3
+Produto não foi entregue no prazo,Entrega,EletroMax,BA,67.01,6.7
+Entrega foi feita no endereço errado,Entrega,FastDelivery,CE,511.91,4.0
+Produto veio danificado na entrega,Produto Defeituoso,EletroMax,RS,1250.91,14.2
+Atendimento muito demorado no telefone,Atendimento,FastDelivery,RS,57.55,8.4
+Produto não foi entregue no prazo,Entrega,TechMart,MG,661.89,4.8
+Produto chegou com defeito de fábrica,Produto Defeituoso,SuperCompras,RJ,125.98,9.7
+Cobraram valor a mais na fatura,Cobrança Indevida,SuperCompras,GO,204.99,7.1
+Funcionário foi grosseiro e mal educado,Atendimento,MegaStore,PE,49.6,14.2
+Fui mal atendido na loja física,Atendimento,MegaStore,GO,73.51,16.3
+Defeito na tela do celular,Produto Defeituoso,SuperCompras,PR,1513.7,12.3
+Produto não corresponde à descrição,Produto Defeituoso,FastDelivery,RJ,537.53,9.1
+Cobrança após cancelamento do serviço,Cobrança Indevida,FastDelivery,SP,346.33,7.7
+Cobraram valor a mais na fatura,Cobrança Indevida,TechMart,SP,262.52,8.4
+Fui mal atendido na loja física,Atendimento,MegaStore,MG,38.92,1.2
+Produto não corresponde à descrição,Produto Defeituoso,FastDelivery,PE,672.66,14.3
+Não recebi o produto comprado,Entrega,MegaStore,CE,516.51,3.7
+Valor diferente do acordado,Cobrança Indevida,TechMart,RS,342.81,7.8
+Cobraram valor a mais na fatura,Cobrança Indevida,EletroMax,PR,257.32,1.5
+Taxa não informada na contratação,Cobrança Indevida,EletroMax,MG,446.1,4.2
+Atendente não soube me informar,Atendimento,TechMart,CE,83.7,17.5
+Fui mal atendido na loja física,Atendimento,SuperCompras,PE,82.19,14.4
+Produto veio danificado na entrega,Produto Defeituoso,EletroMax,SC,1973.95,6.2
+Defeito na tela do celular,Produto Defeituoso,TechMart,BA,1972.7,11.5
+Atendente não soube me informar,Atendimento,MegaStore,SC,70.51,5.7
+Cobrança duplicada no cartão,Cobrança Indevida,EletroMax,RJ,244.96,1.5
+Entregador foi mal educado,Entrega,TechMart,BA,604.45,4.5
+Atendimento muito demorado no telefone,Atendimento,FastDelivery,SP,8.29,11.0
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,FastDelivery,PR,134.63,13.9
+Entregador foi mal educado,Entrega,FastDelivery,MG,565.47,1.5
+Cobraram valor a mais na fatura,Cobrança Indevida,TechMart,SP,321.23,6.3
+Produto não foi entregue no prazo,Entrega,MegaStore,CE,761.82,6.3
+Não recebi o produto comprado,Entrega,EletroMax,GO,160.65,4.9
+Entrega foi feita no endereço errado,Entrega,FastDelivery,RJ,234.77,3.2
+Produto chegou muito atrasado,Entrega,TechMart,PE,268.34,5.9
+Entregador foi mal educado,Entrega,EletroMax,MG,663.35,6.7
+Entregador foi mal educado,Entrega,TechMart,RJ,93.72,6.3
+Cobrança após cancelamento do serviço,Cobrança Indevida,EletroMax,BA,217.4,8.0
+Atendimento muito demorado no telefone,Atendimento,MegaStore,PR,74.96,8.5
+Cobrança duplicada no cartão,Cobrança Indevida,TechMart,SP,244.97,4.7
+Produto veio danificado na entrega,Produto Defeituoso,FastDelivery,SP,1091.98,11.5
+Cobrança após cancelamento do serviço,Cobrança Indevida,EletroMax,PR,473.49,8.6
+Produto veio danificado na entrega,Produto Defeituoso,TechMart,SP,1910.4,9.5
+Atendimento muito demorado no telefone,Atendimento,TechMart,GO,61.81,7.8
+Entrega foi feita no endereço errado,Entrega,SuperCompras,RJ,396.68,6.0
+Atendente não soube me informar,Atendimento,TechMart,SC,96.8,2.7
+Cobraram valor a mais na fatura,Cobrança Indevida,TechMart,BA,382.47,6.6
+Não consegui resolver meu problema,Atendimento,MegaStore,BA,13.64,1.3
+Funcionário foi grosseiro e mal educado,Atendimento,SuperCompras,RJ,39.22,9.3
+Taxa não informada na contratação,Cobrança Indevida,FastDelivery,PE,266.71,8.1
+Entrega foi feita no endereço errado,Entrega,MegaStore,SP,761.13,1.9
+Produto não foi entregue no prazo,Entrega,SuperCompras,SP,228.85,3.8
+Fui mal atendido na loja física,Atendimento,SuperCompras,MG,53.73,9.7
+Produto chegou muito atrasado,Entrega,FastDelivery,GO,566.31,3.5
+Produto chegou muito atrasado,Entrega,MegaStore,RJ,493.49,2.3
+Produto veio danificado na entrega,Produto Defeituoso,SuperCompras,CE,395.17,2.2
+Produto veio danificado na entrega,Produto Defeituoso,TechMart,CE,1793.72,2.8
+Fui mal atendido na loja física,Atendimento,MegaStore,PE,9.23,10.1
+Não consegui resolver meu problema,Atendimento,EletroMax,SP,27.69,16.3
+Produto não corresponde à descrição,Produto Defeituoso,EletroMax,RS,458.23,6.2
+Funcionário foi grosseiro e mal educado,Atendimento,FastDelivery,BA,53.13,14.7
+Não consegui resolver meu problema,Atendimento,MegaStore,BA,68.72,17.0
+Valor diferente do acordado,Cobrança Indevida,EletroMax,RJ,234.76,5.8
+Cobraram valor a mais na fatura,Cobrança Indevida,EletroMax,CE,290.7,8.6
+Funcionário foi grosseiro e mal educado,Atendimento,FastDelivery,PE,89.05,12.3
+Entrega foi feita no endereço errado,Entrega,MegaStore,PE,413.8,1.5
+Taxa não informada na contratação,Cobrança Indevida,TechMart,MG,201.81,4.0
+Entrega foi feita no endereço errado,Entrega,SuperCompras,GO,413.65,3.0
+Produto chegou com defeito de fábrica,Produto Defeituoso,EletroMax,SC,489.4,6.1
+Não recebi o produto comprado,Entrega,MegaStore,GO,720.51,1.5
+Cobrança após cancelamento do serviço,Cobrança Indevida,FastDelivery,GO,73.78,4.6
+Produto chegou muito atrasado,Entrega,FastDelivery,SC,780.8,3.9
+Não consegui resolver meu problema,Atendimento,TechMart,RJ,55.68,11.9
+Cobrança após cancelamento do serviço,Cobrança Indevida,FastDelivery,PR,109.78,3.9
+Valor diferente do acordado,Cobrança Indevida,TechMart,RS,136.36,2.0
+Fui mal atendido na loja física,Atendimento,MegaStore,RS,32.06,12.3
+Funcionário foi grosseiro e mal educado,Atendimento,SuperCompras,PR,6.34,19.8
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,FastDelivery,SP,320.71,1.0
+Produto não corresponde à descrição,Produto Defeituoso,MegaStore,SP,1708.92,11.4
+Fui mal atendido na loja física,Atendimento,MegaStore,PE,20.5,8.2
+Defeito na tela do celular,Produto Defeituoso,EletroMax,GO,1664.48,11.5
+Produto chegou muito atrasado,Entrega,EletroMax,PR,657.22,5.0
+Atendente não soube me informar,Atendimento,TechMart,CE,39.24,16.5
+Cobrança duplicada no cartão,Cobrança Indevida,EletroMax,SC,279.09,4.9
+Produto chegou com defeito de fábrica,Produto Defeituoso,TechMart,SP,813.39,8.4
+Produto não corresponde à descrição,Produto Defeituoso,MegaStore,SC,1882.67,9.8
+Entrega foi feita no endereço errado,Entrega,FastDelivery,SP,440.77,6.4
+Entregador foi mal educado,Entrega,TechMart,SP,574.37,5.7
+Defeito na tela do celular,Produto Defeituoso,SuperCompras,CE,1013.26,11.6
+Fui mal atendido na loja física,Atendimento,FastDelivery,GO,60.4,10.5
+Entregador foi mal educado,Entrega,EletroMax,RS,586.13,5.3
+Cobrança duplicada no cartão,Cobrança Indevida,MegaStore,RS,280.51,3.3
+Defeito na tela do celular,Produto Defeituoso,MegaStore,CE,717.92,4.2
+Taxa não informada na contratação,Cobrança Indevida,MegaStore,CE,301.39,5.6
+Produto chegou com defeito de fábrica,Produto Defeituoso,FastDelivery,RS,1841.56,12.1
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,TechMart,CE,184.4,2.1
+Atendimento muito demorado no telefone,Atendimento,MegaStore,BA,12.28,5.5
+Atendente não soube me informar,Atendimento,TechMart,SP,86.99,10.9
+Entregador foi mal educado,Entrega,TechMart,PR,288.1,5.8
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,TechMart,MG,826.43,8.5
+Taxa não informada na contratação,Cobrança Indevida,SuperCompras,RJ,460.86,6.3
+Valor diferente do acordado,Cobrança Indevida,MegaStore,MG,139.15,6.2
+Entregador foi mal educado,Entrega,TechMart,SP,630.98,2.7
+Atendente não soube me informar,Atendimento,SuperCompras,PR,51.52,19.5
+Produto chegou com defeito de fábrica,Produto Defeituoso,FastDelivery,SC,1728.23,8.5
+Produto não foi entregue no prazo,Entrega,TechMart,BA,358.63,5.8
+Fui mal atendido na loja física,Atendimento,TechMart,GO,58.75,6.6
+Taxa não informada na contratação,Cobrança Indevida,SuperCompras,SC,231.57,4.6
+Não consegui resolver meu problema,Atendimento,FastDelivery,SP,33.44,2.4
+Taxa não informada na contratação,Cobrança Indevida,SuperCompras,MG,329.12,4.7
+Valor diferente do acordado,Cobrança Indevida,SuperCompras,BA,336.28,1.2
+Cobrança duplicada no cartão,Cobrança Indevida,MegaStore,GO,69.97,8.2
+Cobrança duplicada no cartão,Cobrança Indevida,TechMart,GO,67.73,3.2
+Não consegui resolver meu problema,Atendimento,FastDelivery,RS,66.81,4.9
+Taxa não informada na contratação,Cobrança Indevida,SuperCompras,BA,373.23,8.6
+Entregador foi mal educado,Entrega,MegaStore,RS,525.05,5.2
+Produto veio danificado na entrega,Produto Defeituoso,FastDelivery,CE,1658.96,6.1
+Valor diferente do acordado,Cobrança Indevida,FastDelivery,PR,185.69,8.0
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,EletroMax,MG,1899.48,11.7
+Produto não foi entregue no prazo,Entrega,SuperCompras,GO,788.73,3.8
+Produto não foi entregue no prazo,Entrega,SuperCompras,MG,424.59,5.5
+Fui mal atendido na loja física,Atendimento,TechMart,BA,21.8,13.3
+Atendente não soube me informar,Atendimento,SuperCompras,CE,90.06,14.1
+Produto não corresponde à descrição,Produto Defeituoso,SuperCompras,PR,1639.36,8.0
+Atendimento muito demorado no telefone,Atendimento,EletroMax,PE,49.75,14.7
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,EletroMax,PE,569.67,11.3
+Atendente não soube me informar,Atendimento,EletroMax,PE,49.43,11.9
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,EletroMax,CE,872.97,6.0
+Não consegui resolver meu problema,Atendimento,TechMart,MG,9.03,15.6
+Produto veio danificado na entrega,Produto Defeituoso,MegaStore,GO,902.53,13.8
+Cobrança duplicada no cartão,Cobrança Indevida,SuperCompras,BA,338.56,9.4
+Produto chegou com defeito de fábrica,Produto Defeituoso,SuperCompras,RS,1102.69,3.3
+Produto chegou muito atrasado,Entrega,TechMart,RJ,509.97,3.8
+Produto chegou com defeito de fábrica,Produto Defeituoso,TechMart,SP,1016.21,10.6
+Atendimento muito demorado no telefone,Atendimento,MegaStore,MG,7.78,1.0
+Taxa não informada na contratação,Cobrança Indevida,FastDelivery,MG,171.01,8.3
+Produto veio danificado na entrega,Produto Defeituoso,TechMart,CE,1396.59,8.3
+Produto chegou muito atrasado,Entrega,EletroMax,SP,537.26,5.2
+Atendimento muito demorado no telefone,Atendimento,SuperCompras,PE,64.67,14.2
+Produto veio danificado na entrega,Produto Defeituoso,SuperCompras,CE,1197.11,15.0
+Fui mal atendido na loja física,Atendimento,SuperCompras,BA,3.39,14.3
+Produto não corresponde à descrição,Produto Defeituoso,SuperCompras,BA,1600.92,11.4
+Produto chegou muito atrasado,Entrega,SuperCompras,CE,526.3,4.9
+Produto chegou muito atrasado,Entrega,FastDelivery,RJ,711.45,4.2
+Atendente não soube me informar,Atendimento,TechMart,RS,79.07,7.1
+Atendimento muito demorado no telefone,Atendimento,EletroMax,CE,87.67,8.9
+Taxa não informada na contratação,Cobrança Indevida,SuperCompras,BA,109.03,4.5
+Produto chegou muito atrasado,Entrega,MegaStore,BA,37.3,1.3
+Produto veio danificado na entrega,Produto Defeituoso,EletroMax,PE,1182.48,4.8
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,TechMart,BA,1068.91,11.3
+Produto não corresponde à descrição,Produto Defeituoso,EletroMax,GO,610.12,5.1
+Fui mal atendido na loja física,Atendimento,TechMart,SP,91.03,1.9
+Cobraram valor a mais na fatura,Cobrança Indevida,TechMart,GO,79.73,9.6
+Produto veio danificado na entrega,Produto Defeituoso,EletroMax,SC,1965.54,13.4
+Produto chegou muito atrasado,Entrega,EletroMax,RJ,158.62,6.9
+Valor diferente do acordado,Cobrança Indevida,EletroMax,SC,311.71,5.6
+Não consegui resolver meu problema,Atendimento,SuperCompras,PE,22.05,4.5
+Cobrança após cancelamento do serviço,Cobrança Indevida,EletroMax,SC,485.17,9.0
+Valor diferente do acordado,Cobrança Indevida,SuperCompras,SP,103.47,4.6
+Funcionário foi grosseiro e mal educado,Atendimento,TechMart,GO,89.74,9.8
+Produto veio danificado na entrega,Produto Defeituoso,TechMart,PE,1795.1,13.0
+Cobraram valor a mais na fatura,Cobrança Indevida,MegaStore,PE,41.3,8.7
+Atendimento muito demorado no telefone,Atendimento,TechMart,PR,73.52,6.3
+Produto chegou muito atrasado,Entrega,EletroMax,CE,440.1,6.8
+Entregador foi mal educado,Entrega,FastDelivery,PR,793.44,1.4
+Produto veio danificado na entrega,Produto Defeituoso,MegaStore,CE,1164.07,10.3
+Produto chegou muito atrasado,Entrega,EletroMax,SP,706.55,5.8
+Não recebi o produto comprado,Entrega,TechMart,PE,287.19,2.4
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,FastDelivery,SC,418.98,13.3
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,TechMart,MG,1764.19,1.1
+Produto chegou muito atrasado,Entrega,EletroMax,BA,153.79,5.9
+Fui mal atendido na loja física,Atendimento,EletroMax,BA,19.31,2.6
+Cobraram valor a mais na fatura,Cobrança Indevida,TechMart,SP,75.61,4.4
+Entregador foi mal educado,Entrega,MegaStore,SC,248.17,1.1
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,FastDelivery,PR,249.89,14.1
+Não recebi o produto comprado,Entrega,SuperCompras,RS,261.74,5.2
+Atendimento muito demorado no telefone,Atendimento,SuperCompras,SC,34.59,12.8
+Taxa não informada na contratação,Cobrança Indevida,SuperCompras,RS,330.84,6.3
+Entregador foi mal educado,Entrega,MegaStore,SP,279.18,3.9
+Cobrança duplicada no cartão,Cobrança Indevida,SuperCompras,BA,234.03,3.5
+Defeito na tela do celular,Produto Defeituoso,TechMart,MG,930.2,3.3
+Cobrança após cancelamento do serviço,Cobrança Indevida,EletroMax,RS,423.17,8.0
+Produto chegou muito atrasado,Entrega,MegaStore,MG,762.16,1.9
+Entregador foi mal educado,Entrega,EletroMax,PR,521.66,3.4
+Produto veio danificado na entrega,Produto Defeituoso,MegaStore,SP,675.45,11.1
+Fui mal atendido na loja física,Atendimento,MegaStore,SP,65.17,8.0
+Valor diferente do acordado,Cobrança Indevida,MegaStore,GO,96.44,2.8
+Produto veio danificado na entrega,Produto Defeituoso,MegaStore,RJ,1534.0,9.8
+Não recebi o produto comprado,Entrega,EletroMax,GO,739.05,4.7
+Atendimento muito demorado no telefone,Atendimento,TechMart,RS,43.03,4.8
+Defeito na tela do celular,Produto Defeituoso,EletroMax,PR,1201.01,7.1
+Entregador foi mal educado,Entrega,TechMart,GO,387.74,5.1
+Não consegui resolver meu problema,Atendimento,EletroMax,PE,86.01,15.8
+Produto chegou muito atrasado,Entrega,MegaStore,GO,142.36,1.6
+Atendente não soube me informar,Atendimento,FastDelivery,SP,55.96,1.2
+Produto não foi entregue no prazo,Entrega,SuperCompras,SP,97.66,3.1
+Produto veio danificado na entrega,Produto Defeituoso,FastDelivery,CE,824.0,2.9
+Taxa não informada na contratação,Cobrança Indevida,SuperCompras,RJ,414.29,1.4
+Produto não foi entregue no prazo,Entrega,MegaStore,MG,720.09,4.6
+Produto chegou com defeito de fábrica,Produto Defeituoso,SuperCompras,GO,1897.33,9.8
+Produto chegou muito atrasado,Entrega,MegaStore,RS,455.81,4.6
+Funcionário foi grosseiro e mal educado,Atendimento,MegaStore,PE,16.4,9.3
+Atendente não soube me informar,Atendimento,FastDelivery,PE,87.18,5.2
+Valor diferente do acordado,Cobrança Indevida,EletroMax,GO,438.48,4.9
+Produto chegou muito atrasado,Entrega,FastDelivery,RJ,46.06,4.9
+Produto chegou com defeito de fábrica,Produto Defeituoso,MegaStore,MG,208.98,6.6
+Produto veio danificado na entrega,Produto Defeituoso,TechMart,BA,952.11,13.2
+Taxa não informada na contratação,Cobrança Indevida,EletroMax,GO,224.24,4.1
+Não recebi o produto comprado,Entrega,FastDelivery,GO,448.34,4.1
+Defeito na tela do celular,Produto Defeituoso,SuperCompras,PR,821.25,9.5
+Taxa não informada na contratação,Cobrança Indevida,FastDelivery,SC,334.4,9.9
+Fui mal atendido na loja física,Atendimento,FastDelivery,MG,62.3,13.0
+Cobraram valor a mais na fatura,Cobrança Indevida,MegaStore,CE,363.6,9.2
+Taxa não informada na contratação,Cobrança Indevida,FastDelivery,RJ,106.87,8.7
+Produto chegou com defeito de fábrica,Produto Defeituoso,FastDelivery,GO,1179.86,10.3
+Cobraram valor a mais na fatura,Cobrança Indevida,MegaStore,PE,485.32,3.3
+Produto veio danificado na entrega,Produto Defeituoso,TechMart,GO,1217.49,6.6
+Cobrança duplicada no cartão,Cobrança Indevida,SuperCompras,MG,232.17,4.0
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,FastDelivery,PE,890.23,4.5
+Valor diferente do acordado,Cobrança Indevida,TechMart,PE,100.18,2.5
+Produto não corresponde à descrição,Produto Defeituoso,EletroMax,PR,1090.35,11.9
+Não recebi o produto comprado,Entrega,FastDelivery,SC,188.5,1.7
+Funcionário foi grosseiro e mal educado,Atendimento,TechMart,PR,93.66,1.7
+Cobrança duplicada no cartão,Cobrança Indevida,EletroMax,PR,62.51,1.9
+Valor diferente do acordado,Cobrança Indevida,SuperCompras,RS,493.58,9.7
+Taxa não informada na contratação,Cobrança Indevida,TechMart,RJ,487.09,6.2
+Produto chegou muito atrasado,Entrega,SuperCompras,BA,543.49,1.8
+Entregador foi mal educado,Entrega,FastDelivery,RJ,185.43,5.0
+Fui mal atendido na loja física,Atendimento,TechMart,BA,67.26,9.4
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,TechMart,BA,1958.33,6.2
+Funcionário foi grosseiro e mal educado,Atendimento,SuperCompras,SP,83.09,17.4
+Defeito na tela do celular,Produto Defeituoso,MegaStore,GO,1601.25,13.9
+Produto não corresponde à descrição,Produto Defeituoso,EletroMax,PR,1175.51,5.9
+Funcionário foi grosseiro e mal educado,Atendimento,TechMart,SP,40.69,17.5
+Produto veio danificado na entrega,Produto Defeituoso,EletroMax,PE,262.76,10.1
+Atendente não soube me informar,Atendimento,MegaStore,SC,90.14,17.7
+Cobrança duplicada no cartão,Cobrança Indevida,EletroMax,SP,77.7,5.9
+Produto veio danificado na entrega,Produto Defeituoso,TechMart,CE,822.54,10.7
+Entregador foi mal educado,Entrega,TechMart,SP,212.91,3.2
+Entrega foi feita no endereço errado,Entrega,MegaStore,MG,159.7,4.9
+Atendimento muito demorado no telefone,Atendimento,MegaStore,PR,86.33,10.9
+Atendente não soube me informar,Atendimento,EletroMax,CE,10.89,3.8
+Entregador foi mal educado,Entrega,FastDelivery,RS,498.09,5.6
+Funcionário foi grosseiro e mal educado,Atendimento,FastDelivery,PR,19.58,1.1
+Cobrança após cancelamento do serviço,Cobrança Indevida,FastDelivery,PE,334.25,4.4
+Entregador foi mal educado,Entrega,EletroMax,SC,179.81,2.0
+Entregador foi mal educado,Entrega,FastDelivery,MG,477.32,1.5
+Funcionário foi grosseiro e mal educado,Atendimento,SuperCompras,SP,97.67,16.6
+Não consegui resolver meu problema,Atendimento,FastDelivery,CE,79.98,4.5
+Cobraram valor a mais na fatura,Cobrança Indevida,SuperCompras,CE,460.52,4.8
+Atendimento muito demorado no telefone,Atendimento,FastDelivery,GO,52.65,3.1
+Produto veio danificado na entrega,Produto Defeituoso,FastDelivery,PE,1597.8,10.1
+Entrega foi feita no endereço errado,Entrega,TechMart,CE,723.02,3.1
+Não consegui resolver meu problema,Atendimento,EletroMax,RS,27.48,16.6
+Entrega foi feita no endereço errado,Entrega,TechMart,RJ,620.33,1.9
+Taxa não informada na contratação,Cobrança Indevida,EletroMax,SP,373.7,8.8
+Cobrança após cancelamento do serviço,Cobrança Indevida,TechMart,SC,31.35,6.8
+Produto chegou muito atrasado,Entrega,SuperCompras,PE,331.0,4.6
+Atendimento muito demorado no telefone,Atendimento,SuperCompras,MG,59.7,13.8
+Fui mal atendido na loja física,Atendimento,TechMart,SP,1.58,7.5
+Não consegui resolver meu problema,Atendimento,FastDelivery,CE,33.72,18.2
+Defeito na tela do celular,Produto Defeituoso,EletroMax,SP,1211.71,6.6
+Produto não corresponde à descrição,Produto Defeituoso,TechMart,BA,185.38,8.3
+Atendente não soube me informar,Atendimento,EletroMax,PR,27.11,12.3
+Valor diferente do acordado,Cobrança Indevida,EletroMax,CE,179.84,7.0
+Valor diferente do acordado,Cobrança Indevida,SuperCompras,SC,287.74,7.6
+Atendente não soube me informar,Atendimento,FastDelivery,CE,95.76,4.3
+Cobraram valor a mais na fatura,Cobrança Indevida,SuperCompras,PE,414.47,1.0
+Não recebi o produto comprado,Entrega,FastDelivery,MG,743.93,2.4
+Produto chegou muito atrasado,Entrega,EletroMax,RS,743.79,4.2
+Produto veio danificado na entrega,Produto Defeituoso,FastDelivery,SC,551.24,12.0
+Produto não foi entregue no prazo,Entrega,EletroMax,SC,152.66,1.4
+Produto não foi entregue no prazo,Entrega,SuperCompras,RJ,323.3,3.1
+Produto chegou com defeito de fábrica,Produto Defeituoso,TechMart,MG,824.11,7.3
+Entrega foi feita no endereço errado,Entrega,MegaStore,SC,412.66,7.0
+Defeito na tela do celular,Produto Defeituoso,SuperCompras,SP,276.91,12.4
+Taxa não informada na contratação,Cobrança Indevida,MegaStore,BA,166.25,1.7
+Produto não corresponde à descrição,Produto Defeituoso,SuperCompras,RJ,486.05,14.4
+Funcionário foi grosseiro e mal educado,Atendimento,TechMart,RJ,13.25,17.4
+Produto não foi entregue no prazo,Entrega,EletroMax,RS,416.98,3.4
+Produto veio danificado na entrega,Produto Defeituoso,EletroMax,RJ,182.94,1.4
+Defeito na tela do celular,Produto Defeituoso,EletroMax,RS,907.05,2.5
+Fui mal atendido na loja física,Atendimento,MegaStore,RJ,65.02,3.9
+Cobrança após cancelamento do serviço,Cobrança Indevida,MegaStore,RJ,240.7,1.5
+Taxa não informada na contratação,Cobrança Indevida,EletroMax,GO,162.73,4.9
+Produto não corresponde à descrição,Produto Defeituoso,EletroMax,PE,1576.26,4.7
+Valor diferente do acordado,Cobrança Indevida,TechMart,RS,323.93,3.1
+Defeito na tela do celular,Produto Defeituoso,FastDelivery,RS,1328.66,12.9
+Fui mal atendido na loja física,Atendimento,FastDelivery,MG,36.78,8.9
+Fui mal atendido na loja física,Atendimento,EletroMax,SC,96.38,5.7
+Não consegui resolver meu problema,Atendimento,EletroMax,SC,79.03,12.1
+Taxa não informada na contratação,Cobrança Indevida,EletroMax,SP,175.28,8.5
+Produto veio danificado na entrega,Produto Defeituoso,EletroMax,RJ,176.0,1.6
+Produto não corresponde à descrição,Produto Defeituoso,TechMart,PR,1696.5,2.4
+Atendente não soube me informar,Atendimento,SuperCompras,RS,24.35,13.4
+Cobraram valor a mais na fatura,Cobrança Indevida,EletroMax,RS,432.59,4.5
+Fui mal atendido na loja física,Atendimento,TechMart,PE,10.21,13.5
+Produto chegou com defeito de fábrica,Produto Defeituoso,SuperCompras,SP,1689.7,1.5
+Entregador foi mal educado,Entrega,FastDelivery,BA,537.7,6.4
+Produto não foi entregue no prazo,Entrega,TechMart,BA,429.17,1.9
+Não recebi o produto comprado,Entrega,TechMart,BA,553.78,1.3
+Produto não corresponde à descrição,Produto Defeituoso,TechMart,MG,188.95,1.2
+Defeito na tela do celular,Produto Defeituoso,EletroMax,GO,738.84,5.2
+Valor diferente do acordado,Cobrança Indevida,MegaStore,BA,396.24,4.2
+Fui mal atendido na loja física,Atendimento,EletroMax,SC,76.44,6.0
+Atendente não soube me informar,Atendimento,TechMart,GO,76.92,12.9
+Funcionário foi grosseiro e mal educado,Atendimento,MegaStore,SP,25.54,6.0
+Produto chegou com defeito de fábrica,Produto Defeituoso,TechMart,CE,982.6,13.5
+Fui mal atendido na loja física,Atendimento,FastDelivery,GO,11.4,10.2
+Não recebi o produto comprado,Entrega,SuperCompras,CE,290.47,6.6
+Cobraram valor a mais na fatura,Cobrança Indevida,TechMart,GO,227.4,5.0
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,FastDelivery,RS,286.93,3.8
+Atendimento muito demorado no telefone,Atendimento,EletroMax,MG,67.15,7.0
+Cobraram valor a mais na fatura,Cobrança Indevida,FastDelivery,PE,281.13,6.7
+Fui mal atendido na loja física,Atendimento,FastDelivery,SC,75.32,6.1
+Entregador foi mal educado,Entrega,EletroMax,RJ,113.12,5.1
+Produto chegou muito atrasado,Entrega,SuperCompras,MG,146.02,3.1
+Não consegui resolver meu problema,Atendimento,EletroMax,SP,50.84,6.7
+Cobrança após cancelamento do serviço,Cobrança Indevida,FastDelivery,PE,385.34,2.4
+Funcionário foi grosseiro e mal educado,Atendimento,TechMart,PR,88.15,6.3
+Taxa não informada na contratação,Cobrança Indevida,SuperCompras,PE,286.44,7.6
+Cobrança duplicada no cartão,Cobrança Indevida,MegaStore,RJ,190.58,8.1
+Não recebi o produto comprado,Entrega,SuperCompras,CE,676.77,6.0
+Atendimento muito demorado no telefone,Atendimento,SuperCompras,PR,36.79,7.2
+Cobrança duplicada no cartão,Cobrança Indevida,EletroMax,CE,196.79,5.0
+Entrega foi feita no endereço errado,Entrega,MegaStore,CE,331.47,3.5
+Entregador foi mal educado,Entrega,SuperCompras,SC,158.5,2.1
+Defeito na tela do celular,Produto Defeituoso,TechMart,BA,1754.81,8.1
+Cobrança após cancelamento do serviço,Cobrança Indevida,SuperCompras,BA,357.41,1.5
+Entrega foi feita no endereço errado,Entrega,SuperCompras,MG,237.76,6.0
+Produto não corresponde à descrição,Produto Defeituoso,EletroMax,CE,1429.98,12.0
+Produto chegou muito atrasado,Entrega,EletroMax,RS,124.23,5.4
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,FastDelivery,SP,1216.54,11.3
+Cobraram valor a mais na fatura,Cobrança Indevida,FastDelivery,SC,328.43,4.8
+Não recebi o produto comprado,Entrega,MegaStore,SC,793.17,5.5
+Cobraram valor a mais na fatura,Cobrança Indevida,SuperCompras,PR,108.55,4.3
+Não consegui resolver meu problema,Atendimento,EletroMax,SP,58.58,12.1
+Atendimento muito demorado no telefone,Atendimento,MegaStore,MG,94.07,5.9
+Funcionário foi grosseiro e mal educado,Atendimento,MegaStore,PR,84.19,4.5
+Produto veio danificado na entrega,Produto Defeituoso,SuperCompras,PR,1426.74,9.8
+Funcionário foi grosseiro e mal educado,Atendimento,MegaStore,SP,78.02,1.1
+Defeito na tela do celular,Produto Defeituoso,FastDelivery,PE,1515.18,10.2
+Entregador foi mal educado,Entrega,FastDelivery,CE,247.28,2.6
+Valor diferente do acordado,Cobrança Indevida,SuperCompras,SC,225.87,8.6
+Atendente não soube me informar,Atendimento,TechMart,RS,3.36,2.2
+Não consegui resolver meu problema,Atendimento,TechMart,PR,53.24,8.8
+Taxa não informada na contratação,Cobrança Indevida,MegaStore,RS,81.43,8.9
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,SuperCompras,GO,557.31,11.2
+Fui mal atendido na loja física,Atendimento,SuperCompras,PR,65.42,4.8
+Produto não foi entregue no prazo,Entrega,MegaStore,MG,778.44,4.7
+Produto veio danificado na entrega,Produto Defeituoso,TechMart,SP,344.93,4.2
+Atendimento muito demorado no telefone,Atendimento,TechMart,SP,98.05,5.3
+Entrega foi feita no endereço errado,Entrega,MegaStore,PE,639.61,4.3
+Funcionário foi grosseiro e mal educado,Atendimento,TechMart,CE,16.58,19.0
+Produto não foi entregue no prazo,Entrega,SuperCompras,CE,385.97,3.5
+Defeito na tela do celular,Produto Defeituoso,FastDelivery,CE,1957.22,12.1
+Produto veio danificado na entrega,Produto Defeituoso,FastDelivery,CE,693.92,11.6
+Fui mal atendido na loja física,Atendimento,FastDelivery,PE,56.02,15.3
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,TechMart,GO,954.67,13.7
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,FastDelivery,MG,255.67,10.2
+Produto não corresponde à descrição,Produto Defeituoso,SuperCompras,MG,910.09,3.7
+Entrega foi feita no endereço errado,Entrega,FastDelivery,PE,474.75,4.8
+Cobraram valor a mais na fatura,Cobrança Indevida,SuperCompras,CE,234.85,6.0
+Não consegui resolver meu problema,Atendimento,EletroMax,MG,89.72,4.2
+Atendimento muito demorado no telefone,Atendimento,FastDelivery,SP,3.34,7.9
+Não recebi o produto comprado,Entrega,MegaStore,PR,369.05,4.7
+Não consegui resolver meu problema,Atendimento,TechMart,BA,96.71,8.9
+Cobrança após cancelamento do serviço,Cobrança Indevida,EletroMax,RJ,99.66,8.9
+Cobrança duplicada no cartão,Cobrança Indevida,MegaStore,PR,288.68,5.7
+Defeito na tela do celular,Produto Defeituoso,SuperCompras,CE,204.84,11.2
+Defeito na tela do celular,Produto Defeituoso,EletroMax,PE,1647.17,8.6
+Valor diferente do acordado,Cobrança Indevida,FastDelivery,PE,246.16,8.4
+Produto não foi entregue no prazo,Entrega,EletroMax,GO,410.54,6.0
+Entrega foi feita no endereço errado,Entrega,EletroMax,GO,97.13,5.3
+Valor diferente do acordado,Cobrança Indevida,SuperCompras,PE,375.04,2.7
+Cobraram valor a mais na fatura,Cobrança Indevida,TechMart,PR,406.97,8.6
+Cobrança duplicada no cartão,Cobrança Indevida,TechMart,RS,374.86,2.0
+Valor diferente do acordado,Cobrança Indevida,TechMart,RS,129.05,8.5
+Cobrança duplicada no cartão,Cobrança Indevida,FastDelivery,CE,266.07,3.7
+Cobrança após cancelamento do serviço,Cobrança Indevida,MegaStore,PE,165.89,6.9
+Atendente não soube me informar,Atendimento,FastDelivery,SP,76.61,16.0
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,MegaStore,SP,1754.74,1.0
+Cobrança duplicada no cartão,Cobrança Indevida,SuperCompras,GO,202.16,3.0
+Produto não corresponde à descrição,Produto Defeituoso,MegaStore,RS,85.1,6.9
+Funcionário foi grosseiro e mal educado,Atendimento,TechMart,MG,97.28,16.7
+Cobraram valor a mais na fatura,Cobrança Indevida,FastDelivery,RS,491.26,6.6
+Produto não corresponde à descrição,Produto Defeituoso,FastDelivery,BA,1088.72,9.9
+Entregador foi mal educado,Entrega,EletroMax,RS,104.33,2.5
+Produto não foi entregue no prazo,Entrega,FastDelivery,PE,664.89,1.4
+Produto não corresponde à descrição,Produto Defeituoso,TechMart,RS,175.76,13.3
+Atendimento muito demorado no telefone,Atendimento,EletroMax,SC,89.23,4.5
+Cobrança após cancelamento do serviço,Cobrança Indevida,TechMart,MG,148.53,8.1
+Produto veio danificado na entrega,Produto Defeituoso,EletroMax,RS,479.44,7.8
+Produto veio danificado na entrega,Produto Defeituoso,TechMart,PE,1354.94,12.6
+Produto não foi entregue no prazo,Entrega,EletroMax,BA,361.43,2.9
+Produto não foi entregue no prazo,Entrega,MegaStore,CE,156.92,2.0
+Produto não corresponde à descrição,Produto Defeituoso,FastDelivery,PE,1420.14,4.3
+Valor diferente do acordado,Cobrança Indevida,FastDelivery,RS,204.57,5.4
+Atendente não soube me informar,Atendimento,SuperCompras,GO,60.07,15.1
+Produto chegou com defeito de fábrica,Produto Defeituoso,SuperCompras,SP,127.54,9.5
+Cobrança duplicada no cartão,Cobrança Indevida,FastDelivery,CE,486.34,4.0
+Produto não corresponde à descrição,Produto Defeituoso,MegaStore,RS,453.64,8.2
+Atendimento muito demorado no telefone,Atendimento,TechMart,GO,3.67,3.1
+Fui mal atendido na loja física,Atendimento,EletroMax,SP,21.85,8.5
+Atendimento muito demorado no telefone,Atendimento,TechMart,GO,8.71,12.7
+Entregador foi mal educado,Entrega,MegaStore,BA,472.58,1.2
+Produto chegou muito atrasado,Entrega,MegaStore,SP,330.2,5.4
+Entregador foi mal educado,Entrega,EletroMax,SP,664.32,6.7
+Fui mal atendido na loja física,Atendimento,TechMart,BA,71.76,16.8
+Defeito na tela do celular,Produto Defeituoso,SuperCompras,RJ,273.25,6.4
+Valor diferente do acordado,Cobrança Indevida,SuperCompras,PR,78.09,4.8
+Produto não foi entregue no prazo,Entrega,TechMart,CE,277.23,5.5
+Fui mal atendido na loja física,Atendimento,TechMart,CE,36.19,12.3
+Funcionário foi grosseiro e mal educado,Atendimento,MegaStore,SC,11.57,3.9
+Valor diferente do acordado,Cobrança Indevida,MegaStore,PR,453.18,1.6
+Entrega foi feita no endereço errado,Entrega,TechMart,PE,354.97,2.8
+Produto veio danificado na entrega,Produto Defeituoso,SuperCompras,PR,289.86,8.8
+Cobraram valor a mais na fatura,Cobrança Indevida,TechMart,SC,425.89,7.2
+Atendente não soube me informar,Atendimento,MegaStore,BA,54.25,17.4
+Atendente não soube me informar,Atendimento,FastDelivery,RJ,38.42,9.6
+Produto não foi entregue no prazo,Entrega,MegaStore,CE,314.94,1.2
+Produto não foi entregue no prazo,Entrega,SuperCompras,GO,157.53,4.9
+Produto chegou com defeito de fábrica,Produto Defeituoso,TechMart,RS,712.55,8.2
+Atendente não soube me informar,Atendimento,MegaStore,SP,10.13,17.1
+Entrega foi feita no endereço errado,Entrega,FastDelivery,GO,790.79,3.7
+Produto não foi entregue no prazo,Entrega,EletroMax,RJ,403.9,1.2
+Cobrança duplicada no cartão,Cobrança Indevida,MegaStore,RS,67.67,2.9
+Cobrança duplicada no cartão,Cobrança Indevida,SuperCompras,MG,31.21,7.8
+Cobrança após cancelamento do serviço,Cobrança Indevida,SuperCompras,PR,421.03,4.3
+Entregador foi mal educado,Entrega,MegaStore,BA,371.98,7.0
+Produto chegou com defeito de fábrica,Produto Defeituoso,EletroMax,RS,110.33,14.6
+Atendente não soube me informar,Atendimento,EletroMax,PR,47.79,11.1
+Produto veio danificado na entrega,Produto Defeituoso,MegaStore,BA,908.86,5.2
+Entregador foi mal educado,Entrega,MegaStore,CE,74.39,3.1
+Entregador foi mal educado,Entrega,FastDelivery,BA,449.52,2.0
+Cobrança após cancelamento do serviço,Cobrança Indevida,MegaStore,RJ,254.67,4.6
+Produto não corresponde à descrição,Produto Defeituoso,FastDelivery,RJ,1265.64,9.0
+Não consegui resolver meu problema,Atendimento,EletroMax,BA,39.51,1.7
+Produto veio danificado na entrega,Produto Defeituoso,FastDelivery,SC,494.11,14.5
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,MegaStore,SC,1090.1,13.2
+Produto não corresponde à descrição,Produto Defeituoso,FastDelivery,PR,1598.71,4.9
+Funcionário foi grosseiro e mal educado,Atendimento,FastDelivery,SC,14.88,9.8
+Não recebi o produto comprado,Entrega,FastDelivery,RS,694.93,4.5
+Atendente não soube me informar,Atendimento,MegaStore,SP,56.27,9.4
+Cobrança duplicada no cartão,Cobrança Indevida,TechMart,MG,297.09,8.8
+Não consegui resolver meu problema,Atendimento,SuperCompras,MG,60.21,12.2
+Cobrança após cancelamento do serviço,Cobrança Indevida,MegaStore,PE,48.55,1.0
+Produto chegou com defeito de fábrica,Produto Defeituoso,TechMart,GO,171.79,13.4
+Cobrança após cancelamento do serviço,Cobrança Indevida,EletroMax,BA,29.18,5.3
+Produto não corresponde à descrição,Produto Defeituoso,MegaStore,SC,1078.09,9.9
+Defeito na tela do celular,Produto Defeituoso,SuperCompras,PE,593.58,3.9
+Produto não corresponde à descrição,Produto Defeituoso,MegaStore,RJ,1369.8,12.6
+Cobrança duplicada no cartão,Cobrança Indevida,TechMart,RS,420.39,7.7
+Produto veio danificado na entrega,Produto Defeituoso,EletroMax,PE,1543.93,12.8
+Atendimento muito demorado no telefone,Atendimento,SuperCompras,RS,40.71,2.3
+Cobrança duplicada no cartão,Cobrança Indevida,FastDelivery,RJ,22.92,1.9
+Funcionário foi grosseiro e mal educado,Atendimento,TechMart,BA,84.21,5.6
+Atendente não soube me informar,Atendimento,SuperCompras,RJ,71.01,13.7
+Valor diferente do acordado,Cobrança Indevida,SuperCompras,BA,212.63,3.6
+Produto chegou muito atrasado,Entrega,EletroMax,BA,396.86,2.4
+Produto veio danificado na entrega,Produto Defeituoso,EletroMax,PR,468.52,6.8
+Produto chegou com defeito de fábrica,Produto Defeituoso,SuperCompras,CE,1651.79,8.8
+Entrega foi feita no endereço errado,Entrega,SuperCompras,RS,263.46,2.7
+Atendente não soube me informar,Atendimento,EletroMax,BA,72.07,8.6
+Taxa não informada na contratação,Cobrança Indevida,SuperCompras,GO,322.19,1.5
+Produto não foi entregue no prazo,Entrega,TechMart,SP,423.57,1.3
+Produto não foi entregue no prazo,Entrega,SuperCompras,GO,32.94,2.5
+Produto veio danificado na entrega,Produto Defeituoso,FastDelivery,PE,752.46,4.8
+Taxa não informada na contratação,Cobrança Indevida,FastDelivery,RS,398.69,9.0
+Produto não corresponde à descrição,Produto Defeituoso,TechMart,SC,785.77,14.5
+Produto chegou com defeito de fábrica,Produto Defeituoso,SuperCompras,BA,1012.94,6.4
+Cobraram valor a mais na fatura,Cobrança Indevida,SuperCompras,BA,142.03,8.9
+Produto chegou com defeito de fábrica,Produto Defeituoso,FastDelivery,SP,1368.41,14.2
+Produto veio danificado na entrega,Produto Defeituoso,FastDelivery,MG,1286.96,15.0
+Produto veio danificado na entrega,Produto Defeituoso,FastDelivery,PE,978.14,2.6
+Produto chegou muito atrasado,Entrega,FastDelivery,PE,70.31,5.6
+Fui mal atendido na loja física,Atendimento,EletroMax,RS,85.03,5.0
+Produto não corresponde à descrição,Produto Defeituoso,TechMart,RS,1371.74,9.5
+Atendimento muito demorado no telefone,Atendimento,FastDelivery,RJ,73.71,19.5
+Entregador foi mal educado,Entrega,FastDelivery,GO,390.48,4.5
+Defeito na tela do celular,Produto Defeituoso,MegaStore,MG,1350.39,12.5
+Funcionário foi grosseiro e mal educado,Atendimento,EletroMax,PR,68.8,5.6
+Funcionário foi grosseiro e mal educado,Atendimento,TechMart,RS,94.88,1.6
+Cobraram valor a mais na fatura,Cobrança Indevida,FastDelivery,SC,148.0,7.5
+Defeito na tela do celular,Produto Defeituoso,SuperCompras,CE,1371.21,5.4
+Produto não foi entregue no prazo,Entrega,FastDelivery,CE,689.99,4.5
+Não consegui resolver meu problema,Atendimento,TechMart,RJ,18.17,9.3
+Entregador foi mal educado,Entrega,TechMart,SP,599.05,2.3
+Defeito na tela do celular,Produto Defeituoso,MegaStore,PR,1310.59,14.6
+Cobrança duplicada no cartão,Cobrança Indevida,TechMart,GO,395.94,8.0
+Entregador foi mal educado,Entrega,MegaStore,RS,722.58,5.3
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,SuperCompras,BA,1359.7,9.2
+Produto não foi entregue no prazo,Entrega,EletroMax,GO,793.32,4.3
+Valor diferente do acordado,Cobrança Indevida,TechMart,SP,128.18,2.8
+Atendimento muito demorado no telefone,Atendimento,SuperCompras,PE,78.13,12.0
+Cobrança após cancelamento do serviço,Cobrança Indevida,EletroMax,GO,325.26,4.5
+Produto chegou muito atrasado,Entrega,MegaStore,SP,295.8,6.5
+Não recebi o produto comprado,Entrega,TechMart,PE,561.3,5.1
+Fui mal atendido na loja física,Atendimento,FastDelivery,RS,23.03,1.8
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,MegaStore,RJ,521.69,8.0
+Produto veio danificado na entrega,Produto Defeituoso,SuperCompras,CE,401.6,7.4
+Cobrança após cancelamento do serviço,Cobrança Indevida,FastDelivery,SP,85.76,10.0
+Não consegui resolver meu problema,Atendimento,FastDelivery,SC,10.89,13.1
+Produto chegou muito atrasado,Entrega,SuperCompras,PE,198.72,3.8
+Não consegui resolver meu problema,Atendimento,SuperCompras,CE,1.42,16.8
+Produto não corresponde à descrição,Produto Defeituoso,EletroMax,RJ,1411.71,6.5
+Entrega foi feita no endereço errado,Entrega,SuperCompras,BA,332.45,6.1
+Atendente não soube me informar,Atendimento,TechMart,BA,78.13,19.2
+Fui mal atendido na loja física,Atendimento,FastDelivery,PE,83.54,15.9
+Não recebi o produto comprado,Entrega,SuperCompras,PR,201.0,2.9
+Não consegui resolver meu problema,Atendimento,EletroMax,PE,40.28,18.0
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,FastDelivery,PE,349.92,14.9
+Não consegui resolver meu problema,Atendimento,TechMart,PE,76.1,8.1
+Não recebi o produto comprado,Entrega,EletroMax,MG,74.43,3.7
+Atendimento muito demorado no telefone,Atendimento,SuperCompras,RS,38.63,11.9
+Atendente não soube me informar,Atendimento,TechMart,RJ,90.22,17.7
+Não recebi o produto comprado,Entrega,SuperCompras,PE,59.98,1.2
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,EletroMax,PE,1903.4,9.1
+Cobrança duplicada no cartão,Cobrança Indevida,EletroMax,MG,176.64,8.6
+Defeito na tela do celular,Produto Defeituoso,SuperCompras,GO,831.84,11.7
+Taxa não informada na contratação,Cobrança Indevida,FastDelivery,RJ,118.25,6.3
+Produto não corresponde à descrição,Produto Defeituoso,FastDelivery,PE,760.49,5.1
+Cobrança após cancelamento do serviço,Cobrança Indevida,TechMart,MG,65.63,8.4
+Cobrança após cancelamento do serviço,Cobrança Indevida,FastDelivery,RJ,391.47,4.2
+Produto chegou muito atrasado,Entrega,SuperCompras,PE,386.74,1.3
+Entregador foi mal educado,Entrega,EletroMax,PR,619.47,1.0
+Defeito na tela do celular,Produto Defeituoso,EletroMax,PE,1947.5,4.2
+Fui mal atendido na loja física,Atendimento,EletroMax,RS,23.04,1.0
+Valor diferente do acordado,Cobrança Indevida,FastDelivery,SC,371.23,6.8
+Produto veio danificado na entrega,Produto Defeituoso,EletroMax,BA,1238.78,13.5
+Produto chegou com defeito de fábrica,Produto Defeituoso,MegaStore,MG,404.15,6.2
+Valor diferente do acordado,Cobrança Indevida,EletroMax,SC,303.51,6.9
+Taxa não informada na contratação,Cobrança Indevida,SuperCompras,RJ,394.7,6.3
+Taxa não informada na contratação,Cobrança Indevida,TechMart,SP,308.75,3.7
+Produto não corresponde à descrição,Produto Defeituoso,EletroMax,PR,249.91,8.2
+Produto não corresponde à descrição,Produto Defeituoso,FastDelivery,SP,1869.2,12.6
+Produto chegou muito atrasado,Entrega,TechMart,BA,126.35,6.1
+Produto chegou com defeito de fábrica,Produto Defeituoso,SuperCompras,PE,430.72,5.8
+Atendente não soube me informar,Atendimento,FastDelivery,PR,85.65,14.3
+Entregador foi mal educado,Entrega,TechMart,SP,323.0,2.0
+Não recebi o produto comprado,Entrega,SuperCompras,SP,49.4,6.0
+Entrega foi feita no endereço errado,Entrega,TechMart,RJ,367.0,2.4
+Cobrança após cancelamento do serviço,Cobrança Indevida,MegaStore,SC,282.29,9.7
+Cobrança após cancelamento do serviço,Cobrança Indevida,TechMart,PR,364.86,8.8
+Produto não corresponde à descrição,Produto Defeituoso,MegaStore,CE,1627.14,10.5
+Entrega foi feita no endereço errado,Entrega,MegaStore,PE,643.44,2.5
+Produto chegou muito atrasado,Entrega,SuperCompras,BA,727.69,1.1
+Não recebi o produto comprado,Entrega,TechMart,SP,45.24,3.3
+Produto não corresponde à descrição,Produto Defeituoso,FastDelivery,SP,1873.24,7.0
+Entregador foi mal educado,Entrega,MegaStore,SP,250.03,3.6
+Cobrança após cancelamento do serviço,Cobrança Indevida,MegaStore,RJ,118.59,4.4
+Produto veio danificado na entrega,Produto Defeituoso,FastDelivery,SC,1480.3,2.6
+Cobrança duplicada no cartão,Cobrança Indevida,EletroMax,GO,495.37,3.9
+Taxa não informada na contratação,Cobrança Indevida,TechMart,PE,25.51,5.1
+Atendimento muito demorado no telefone,Atendimento,SuperCompras,SC,54.78,19.6
+Produto veio danificado na entrega,Produto Defeituoso,SuperCompras,CE,1185.26,3.9
+Defeito na tela do celular,Produto Defeituoso,MegaStore,MG,450.4,7.8
+Entrega foi feita no endereço errado,Entrega,FastDelivery,GO,535.7,6.8
+Cobrança duplicada no cartão,Cobrança Indevida,EletroMax,SC,52.8,4.9
+Não recebi o produto comprado,Entrega,MegaStore,RS,100.91,4.3
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,MegaStore,SC,539.24,10.5
+Produto chegou com defeito de fábrica,Produto Defeituoso,MegaStore,RS,536.57,1.0
+Produto não foi entregue no prazo,Entrega,MegaStore,CE,375.8,4.7
+Cobrança duplicada no cartão,Cobrança Indevida,EletroMax,GO,302.04,7.3
+Produto veio danificado na entrega,Produto Defeituoso,FastDelivery,SP,80.02,9.2
+Produto chegou com defeito de fábrica,Produto Defeituoso,FastDelivery,MG,1917.28,6.6
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,TechMart,CE,66.22,7.1
+Valor diferente do acordado,Cobrança Indevida,MegaStore,PR,458.98,4.9
+Valor diferente do acordado,Cobrança Indevida,EletroMax,PE,230.42,10.0
+Produto não foi entregue no prazo,Entrega,MegaStore,PE,546.42,5.2
+Produto chegou com defeito de fábrica,Produto Defeituoso,EletroMax,BA,147.54,13.8
+Produto não foi entregue no prazo,Entrega,TechMart,PR,89.4,6.5
+Cobrança após cancelamento do serviço,Cobrança Indevida,SuperCompras,MG,123.37,6.4
+Entrega foi feita no endereço errado,Entrega,SuperCompras,RJ,649.92,5.9
+Cobrança após cancelamento do serviço,Cobrança Indevida,MegaStore,CE,266.53,3.3
+Cobrança duplicada no cartão,Cobrança Indevida,SuperCompras,SP,461.97,6.3
+Produto chegou com defeito de fábrica,Produto Defeituoso,FastDelivery,SP,1795.92,10.3
+Produto chegou muito atrasado,Entrega,EletroMax,RJ,515.29,2.5
+Entrega foi feita no endereço errado,Entrega,FastDelivery,RJ,529.98,6.6
+Entrega foi feita no endereço errado,Entrega,SuperCompras,SC,634.53,4.6
+Defeito na tela do celular,Produto Defeituoso,EletroMax,SC,105.21,3.9
+Produto não corresponde à descrição,Produto Defeituoso,SuperCompras,PE,557.46,3.2
+Entregador foi mal educado,Entrega,EletroMax,SP,172.95,5.0
+Cobrança duplicada no cartão,Cobrança Indevida,EletroMax,RS,234.18,8.3
+Defeito na tela do celular,Produto Defeituoso,FastDelivery,GO,1129.09,4.6
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,FastDelivery,GO,1589.12,5.3
+Entregador foi mal educado,Entrega,FastDelivery,CE,317.61,2.6
+Produto não foi entregue no prazo,Entrega,TechMart,PR,725.74,1.5
+Produto não corresponde à descrição,Produto Defeituoso,TechMart,SC,1599.25,13.4
+Produto chegou muito atrasado,Entrega,TechMart,SC,257.88,3.8
+Cobrança após cancelamento do serviço,Cobrança Indevida,FastDelivery,BA,226.21,7.7
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,EletroMax,SC,1589.39,5.2
+Atendimento muito demorado no telefone,Atendimento,TechMart,CE,88.17,3.3
+Valor diferente do acordado,Cobrança Indevida,MegaStore,RS,76.84,2.9
+Cobrança duplicada no cartão,Cobrança Indevida,FastDelivery,GO,315.82,6.0
+Cobraram valor a mais na fatura,Cobrança Indevida,TechMart,MG,345.91,4.7
+Atendimento muito demorado no telefone,Atendimento,EletroMax,RJ,32.76,11.4
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,EletroMax,SP,1016.62,14.1
+Taxa não informada na contratação,Cobrança Indevida,TechMart,BA,74.86,7.9
+Taxa não informada na contratação,Cobrança Indevida,TechMart,BA,221.25,1.2
+Produto não corresponde à descrição,Produto Defeituoso,TechMart,MG,1143.32,9.8
+Entrega foi feita no endereço errado,Entrega,FastDelivery,PE,593.11,5.2
+Produto não foi entregue no prazo,Entrega,EletroMax,PE,703.11,2.2
+Produto chegou muito atrasado,Entrega,TechMart,BA,377.5,2.1
+Atendimento muito demorado no telefone,Atendimento,EletroMax,MG,1.34,8.8
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,MegaStore,RJ,180.6,13.3
+Produto não foi entregue no prazo,Entrega,FastDelivery,RS,529.2,1.4
+Fui mal atendido na loja física,Atendimento,EletroMax,SC,43.35,19.9
+Taxa não informada na contratação,Cobrança Indevida,EletroMax,MG,125.65,4.2
+Produto chegou muito atrasado,Entrega,FastDelivery,RS,64.9,3.1
+Produto chegou muito atrasado,Entrega,MegaStore,RJ,539.5,3.9
+Não recebi o produto comprado,Entrega,SuperCompras,GO,452.28,1.4
+Produto não foi entregue no prazo,Entrega,SuperCompras,CE,632.11,5.5
+Taxa não informada na contratação,Cobrança Indevida,FastDelivery,SP,27.02,2.9
+Entregador foi mal educado,Entrega,MegaStore,BA,540.11,3.1
+Fui mal atendido na loja física,Atendimento,SuperCompras,SP,25.82,12.5
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,FastDelivery,CE,1178.67,9.9
+Atendente não soube me informar,Atendimento,SuperCompras,SC,38.62,12.2
+Produto veio danificado na entrega,Produto Defeituoso,MegaStore,RJ,878.46,13.7
+Produto chegou muito atrasado,Entrega,TechMart,CE,566.04,3.3
+Funcionário foi grosseiro e mal educado,Atendimento,TechMart,SC,53.33,13.1
+Cobrança após cancelamento do serviço,Cobrança Indevida,TechMart,PR,353.43,3.0
+Entrega foi feita no endereço errado,Entrega,EletroMax,RS,385.37,6.9
+Não recebi o produto comprado,Entrega,SuperCompras,PR,605.84,1.9
+Produto não foi entregue no prazo,Entrega,EletroMax,SC,55.93,6.3
+Cobrança após cancelamento do serviço,Cobrança Indevida,FastDelivery,GO,431.9,8.1
+Produto não corresponde à descrição,Produto Defeituoso,EletroMax,BA,1992.51,12.6
+Não consegui resolver meu problema,Atendimento,TechMart,SC,70.68,19.4
+Valor diferente do acordado,Cobrança Indevida,FastDelivery,CE,22.74,5.2
+Cobrança após cancelamento do serviço,Cobrança Indevida,EletroMax,SP,481.36,9.0
+Produto não corresponde à descrição,Produto Defeituoso,MegaStore,PR,502.44,1.2
+Funcionário foi grosseiro e mal educado,Atendimento,TechMart,RS,3.89,16.9
+Taxa não informada na contratação,Cobrança Indevida,MegaStore,MG,319.81,8.8
+Não consegui resolver meu problema,Atendimento,TechMart,RS,99.07,15.4
+Taxa não informada na contratação,Cobrança Indevida,SuperCompras,PE,129.86,6.4
+Produto chegou muito atrasado,Entrega,SuperCompras,BA,506.27,4.8
+Produto não corresponde à descrição,Produto Defeituoso,EletroMax,RJ,1316.54,12.3
+Produto não foi entregue no prazo,Entrega,MegaStore,RJ,309.07,6.2
+Produto chegou muito atrasado,Entrega,EletroMax,PR,71.88,4.9
+Produto chegou com defeito de fábrica,Produto Defeituoso,SuperCompras,SC,354.6,9.9
+Produto não foi entregue no prazo,Entrega,FastDelivery,SC,380.48,5.0
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,FastDelivery,RJ,1569.25,9.5
+Valor diferente do acordado,Cobrança Indevida,FastDelivery,SC,277.25,5.4
+Fui mal atendido na loja física,Atendimento,EletroMax,RJ,57.26,6.3
+Entrega foi feita no endereço errado,Entrega,MegaStore,GO,103.08,4.6
+Entregador foi mal educado,Entrega,SuperCompras,SP,497.27,6.3
+Produto chegou muito atrasado,Entrega,EletroMax,GO,181.42,5.4
+Produto não foi entregue no prazo,Entrega,MegaStore,MG,53.12,6.4
+Cobraram valor a mais na fatura,Cobrança Indevida,EletroMax,RS,186.8,4.9
+Produto não foi entregue no prazo,Entrega,TechMart,CE,752.23,1.5
+Taxa não informada na contratação,Cobrança Indevida,SuperCompras,BA,121.18,3.1
+Entrega foi feita no endereço errado,Entrega,SuperCompras,RS,367.61,4.2
+Produto chegou com defeito de fábrica,Produto Defeituoso,FastDelivery,GO,353.36,3.9
+Entregador foi mal educado,Entrega,FastDelivery,CE,227.48,3.1
+Produto veio danificado na entrega,Produto Defeituoso,FastDelivery,PR,381.73,13.6
+Funcionário foi grosseiro e mal educado,Atendimento,MegaStore,PR,47.85,15.8
+Produto chegou muito atrasado,Entrega,FastDelivery,BA,93.35,3.8
+Taxa não informada na contratação,Cobrança Indevida,TechMart,BA,47.35,4.8
+Produto veio danificado na entrega,Produto Defeituoso,TechMart,RJ,1351.06,11.9
+Taxa não informada na contratação,Cobrança Indevida,EletroMax,SP,387.28,9.5
+Não consegui resolver meu problema,Atendimento,EletroMax,RJ,47.09,13.5
+Não recebi o produto comprado,Entrega,MegaStore,BA,120.1,5.8
+Não recebi o produto comprado,Entrega,MegaStore,PE,425.67,6.4
+Produto chegou com defeito de fábrica,Produto Defeituoso,TechMart,PR,1044.79,11.3
+Entrega foi feita no endereço errado,Entrega,FastDelivery,BA,747.89,5.4
+Valor diferente do acordado,Cobrança Indevida,EletroMax,MG,124.98,2.6
+Fui mal atendido na loja física,Atendimento,TechMart,SC,37.45,16.2
+Cobrança duplicada no cartão,Cobrança Indevida,FastDelivery,SP,370.14,6.2
+Defeito na tela do celular,Produto Defeituoso,TechMart,PE,542.66,8.3
+Não recebi o produto comprado,Entrega,EletroMax,CE,640.3,4.8
+Produto chegou com defeito de fábrica,Produto Defeituoso,FastDelivery,SP,1130.96,3.8
+Entrega foi feita no endereço errado,Entrega,SuperCompras,BA,254.42,2.2
+Não consegui resolver meu problema,Atendimento,EletroMax,BA,0.64,15.7
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,SuperCompras,SP,1422.96,14.1
+Fui mal atendido na loja física,Atendimento,SuperCompras,PR,76.29,1.9
+Produto não corresponde à descrição,Produto Defeituoso,FastDelivery,PE,963.24,11.8
+Defeito na tela do celular,Produto Defeituoso,TechMart,PE,904.45,12.7
+Defeito na tela do celular,Produto Defeituoso,MegaStore,RJ,470.23,5.7
+Produto não foi entregue no prazo,Entrega,EletroMax,PE,498.41,2.7
+Atendente não soube me informar,Atendimento,TechMart,GO,19.98,2.1
+Cobrança duplicada no cartão,Cobrança Indevida,TechMart,SP,133.73,7.1
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,EletroMax,MG,1073.23,11.9
+Cobrança duplicada no cartão,Cobrança Indevida,MegaStore,GO,34.45,9.7
+Cobrança duplicada no cartão,Cobrança Indevida,FastDelivery,SP,333.62,2.7
+Entrega foi feita no endereço errado,Entrega,EletroMax,MG,419.87,3.1
+Produto não corresponde à descrição,Produto Defeituoso,FastDelivery,CE,938.46,10.5
+Produto chegou com defeito de fábrica,Produto Defeituoso,FastDelivery,BA,899.51,12.1
+Produto chegou muito atrasado,Entrega,MegaStore,SP,98.52,7.0
+Defeito na tela do celular,Produto Defeituoso,SuperCompras,RS,437.06,3.3
+Valor diferente do acordado,Cobrança Indevida,EletroMax,PE,458.35,2.7
+Entrega foi feita no endereço errado,Entrega,TechMart,CE,528.59,2.6
+Cobrança duplicada no cartão,Cobrança Indevida,EletroMax,MG,383.38,1.5
+Cobrança duplicada no cartão,Cobrança Indevida,FastDelivery,PE,338.49,4.7
+Funcionário foi grosseiro e mal educado,Atendimento,FastDelivery,BA,29.51,6.7
+Produto não foi entregue no prazo,Entrega,TechMart,RJ,172.17,3.1
+Defeito na tela do celular,Produto Defeituoso,TechMart,RS,283.79,11.3
+Defeito na tela do celular,Produto Defeituoso,EletroMax,CE,634.89,9.3
+Atendimento muito demorado no telefone,Atendimento,EletroMax,GO,11.66,11.4
+Produto não corresponde à descrição,Produto Defeituoso,FastDelivery,BA,1334.39,14.0
+Produto chegou muito atrasado,Entrega,MegaStore,GO,337.63,3.0
+Produto não corresponde à descrição,Produto Defeituoso,EletroMax,PR,242.54,2.1
+Produto não corresponde à descrição,Produto Defeituoso,EletroMax,SC,468.66,1.9
+Entrega foi feita no endereço errado,Entrega,TechMart,GO,54.98,5.0
+Não recebi o produto comprado,Entrega,FastDelivery,BA,162.84,4.4
+Cobrança após cancelamento do serviço,Cobrança Indevida,EletroMax,SC,223.3,8.1
+Taxa não informada na contratação,Cobrança Indevida,EletroMax,GO,186.81,1.5
+Produto não foi entregue no prazo,Entrega,FastDelivery,SP,382.61,2.4
+Cobraram valor a mais na fatura,Cobrança Indevida,TechMart,PE,297.26,4.2
+Produto chegou com defeito de fábrica,Produto Defeituoso,MegaStore,GO,358.69,1.7
+Funcionário foi grosseiro e mal educado,Atendimento,EletroMax,SP,83.46,7.8
+Produto não corresponde à descrição,Produto Defeituoso,EletroMax,SC,1535.67,11.9
+Cobrança após cancelamento do serviço,Cobrança Indevida,MegaStore,SC,346.02,1.7
+Cobraram valor a mais na fatura,Cobrança Indevida,SuperCompras,CE,469.81,3.8
+Não consegui resolver meu problema,Atendimento,SuperCompras,RJ,33.21,18.6
+Fui mal atendido na loja física,Atendimento,FastDelivery,BA,51.23,15.7
+Valor diferente do acordado,Cobrança Indevida,MegaStore,SP,331.15,3.1
+Taxa não informada na contratação,Cobrança Indevida,FastDelivery,GO,173.43,4.9
+Cobrança duplicada no cartão,Cobrança Indevida,SuperCompras,SP,233.18,7.8
+Funcionário foi grosseiro e mal educado,Atendimento,EletroMax,RS,55.63,1.6
+Não recebi o produto comprado,Entrega,EletroMax,CE,159.52,6.3
+Cobrança duplicada no cartão,Cobrança Indevida,MegaStore,PE,170.26,8.5
+Valor diferente do acordado,Cobrança Indevida,MegaStore,BA,325.0,6.7
+Taxa não informada na contratação,Cobrança Indevida,SuperCompras,RJ,345.17,4.9
+Entrega foi feita no endereço errado,Entrega,MegaStore,BA,671.36,4.2
+Fui mal atendido na loja física,Atendimento,FastDelivery,RS,76.81,10.5
+Funcionário foi grosseiro e mal educado,Atendimento,SuperCompras,PE,30.85,11.9
+Produto chegou muito atrasado,Entrega,MegaStore,CE,34.91,6.9
+Não recebi o produto comprado,Entrega,TechMart,PE,192.38,6.1
+Produto chegou muito atrasado,Entrega,TechMart,RS,324.33,4.7
+Produto não corresponde à descrição,Produto Defeituoso,SuperCompras,MG,1995.36,3.7
+Atendimento muito demorado no telefone,Atendimento,SuperCompras,SP,30.45,4.8
+Não consegui resolver meu problema,Atendimento,EletroMax,PR,30.72,11.4
+Atendimento muito demorado no telefone,Atendimento,FastDelivery,RJ,17.09,8.9
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,SuperCompras,PE,1396.29,5.8
+Cobraram valor a mais na fatura,Cobrança Indevida,TechMart,MG,309.18,2.5
+Cobrança duplicada no cartão,Cobrança Indevida,MegaStore,PR,420.77,9.8
+Cobraram valor a mais na fatura,Cobrança Indevida,SuperCompras,PE,221.42,1.5
+Cobraram valor a mais na fatura,Cobrança Indevida,MegaStore,RJ,431.82,7.6
+Produto não foi entregue no prazo,Entrega,FastDelivery,CE,483.03,3.4
+Taxa não informada na contratação,Cobrança Indevida,SuperCompras,GO,454.04,4.4
+Atendente não soube me informar,Atendimento,FastDelivery,SP,22.18,7.0
+Entregador foi mal educado,Entrega,EletroMax,CE,103.43,3.7
+Defeito na tela do celular,Produto Defeituoso,EletroMax,BA,461.7,11.5
+Defeito na tela do celular,Produto Defeituoso,FastDelivery,PR,1468.68,7.8
+Valor diferente do acordado,Cobrança Indevida,MegaStore,CE,120.12,3.7
+Valor diferente do acordado,Cobrança Indevida,EletroMax,RS,372.27,4.1
+Funcionário foi grosseiro e mal educado,Atendimento,EletroMax,SC,3.47,8.4
+Taxa não informada na contratação,Cobrança Indevida,EletroMax,SC,144.72,9.0
+Não recebi o produto comprado,Entrega,TechMart,BA,115.58,4.9
+Produto não foi entregue no prazo,Entrega,FastDelivery,PE,450.1,1.6
+Defeito na tela do celular,Produto Defeituoso,MegaStore,PR,209.95,1.5
+Entrega foi feita no endereço errado,Entrega,EletroMax,CE,372.29,4.0
+Produto chegou muito atrasado,Entrega,SuperCompras,MG,474.91,6.2
+Cobrança após cancelamento do serviço,Cobrança Indevida,SuperCompras,RS,234.29,6.6
+Produto não foi entregue no prazo,Entrega,EletroMax,GO,663.92,4.3
+Entrega foi feita no endereço errado,Entrega,SuperCompras,SP,715.23,7.0
+Defeito na tela do celular,Produto Defeituoso,EletroMax,CE,1593.35,9.4
+Não recebi o produto comprado,Entrega,MegaStore,CE,251.63,1.6
+Cobrança após cancelamento do serviço,Cobrança Indevida,MegaStore,MG,344.71,6.3
+Atendimento muito demorado no telefone,Atendimento,SuperCompras,SC,42.91,6.2
+Produto veio danificado na entrega,Produto Defeituoso,SuperCompras,CE,505.0,9.8
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,EletroMax,SC,305.4,9.5
+Entrega foi feita no endereço errado,Entrega,MegaStore,PE,797.62,2.1
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,FastDelivery,GO,296.45,1.4
+Atendimento muito demorado no telefone,Atendimento,SuperCompras,RS,48.27,15.8
+Valor diferente do acordado,Cobrança Indevida,FastDelivery,GO,256.45,6.7
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,EletroMax,PR,1174.92,8.9
+Entregador foi mal educado,Entrega,SuperCompras,PR,492.7,3.0
+Entrega foi feita no endereço errado,Entrega,FastDelivery,SC,140.33,5.3
+Entregador foi mal educado,Entrega,FastDelivery,GO,639.99,5.1
+Não recebi o produto comprado,Entrega,SuperCompras,SC,257.78,1.0
+Cobrança duplicada no cartão,Cobrança Indevida,EletroMax,RS,176.4,2.1
+Valor diferente do acordado,Cobrança Indevida,TechMart,BA,287.16,4.1
+Não recebi o produto comprado,Entrega,TechMart,PE,384.72,4.0
+Produto veio danificado na entrega,Produto Defeituoso,MegaStore,RS,1307.56,5.0
+Não consegui resolver meu problema,Atendimento,TechMart,PR,71.21,7.8
+Cobrança após cancelamento do serviço,Cobrança Indevida,MegaStore,RS,291.56,5.6
+Atendimento muito demorado no telefone,Atendimento,SuperCompras,PR,38.87,5.6
+Cobraram valor a mais na fatura,Cobrança Indevida,FastDelivery,BA,58.9,8.5
+Não consegui resolver meu problema,Atendimento,EletroMax,SC,87.36,19.9
+Não consegui resolver meu problema,Atendimento,TechMart,CE,47.65,7.0
+Fui mal atendido na loja física,Atendimento,FastDelivery,SC,59.23,14.2
+Produto não corresponde à descrição,Produto Defeituoso,FastDelivery,MG,1349.9,2.7
+Entregador foi mal educado,Entrega,FastDelivery,PE,649.15,3.6
+Cobrança duplicada no cartão,Cobrança Indevida,EletroMax,PE,156.58,5.0
+Produto veio danificado na entrega,Produto Defeituoso,MegaStore,MG,490.76,8.7
+Não consegui resolver meu problema,Atendimento,SuperCompras,BA,58.56,11.3
+Produto chegou muito atrasado,Entrega,MegaStore,BA,209.98,4.8
+Cobrança duplicada no cartão,Cobrança Indevida,SuperCompras,MG,350.87,3.3
+Atendimento muito demorado no telefone,Atendimento,SuperCompras,SP,97.7,11.4
+Produto chegou muito atrasado,Entrega,EletroMax,RS,176.25,5.2
+Atendente não soube me informar,Atendimento,MegaStore,MG,91.13,1.4
+Produto não foi entregue no prazo,Entrega,EletroMax,PE,671.57,2.8
+Não recebi o produto comprado,Entrega,MegaStore,SP,550.6,2.8
+Produto não foi entregue no prazo,Entrega,EletroMax,BA,274.85,4.5
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,TechMart,SC,960.12,2.1
+Não consegui resolver meu problema,Atendimento,FastDelivery,SP,10.63,3.2
+Entregador foi mal educado,Entrega,EletroMax,GO,789.07,1.0
+Cobrança após cancelamento do serviço,Cobrança Indevida,FastDelivery,CE,49.49,8.3
+Atendimento muito demorado no telefone,Atendimento,SuperCompras,SP,15.14,10.1
+Cobrança após cancelamento do serviço,Cobrança Indevida,SuperCompras,SC,436.72,3.7
+Entregador foi mal educado,Entrega,FastDelivery,RJ,59.33,4.7
+Funcionário foi grosseiro e mal educado,Atendimento,FastDelivery,SP,4.2,7.9
+Produto não corresponde à descrição,Produto Defeituoso,EletroMax,GO,1615.87,8.6
+Cobrança duplicada no cartão,Cobrança Indevida,MegaStore,PE,210.23,3.7
+Produto chegou muito atrasado,Entrega,MegaStore,RS,503.09,4.1
+Funcionário foi grosseiro e mal educado,Atendimento,TechMart,RS,20.08,7.0
+Atendente não soube me informar,Atendimento,FastDelivery,RS,78.35,6.3
+Cobrança após cancelamento do serviço,Cobrança Indevida,TechMart,CE,494.12,3.9
+Atendente não soube me informar,Atendimento,MegaStore,PR,42.27,19.9
+Atendimento muito demorado no telefone,Atendimento,SuperCompras,SP,14.91,15.9
+Não consegui resolver meu problema,Atendimento,TechMart,SC,8.61,16.5
+Produto não corresponde à descrição,Produto Defeituoso,EletroMax,RJ,1305.72,6.3
+Funcionário foi grosseiro e mal educado,Atendimento,MegaStore,BA,90.24,8.3
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,TechMart,CE,910.24,3.8
+Produto não foi entregue no prazo,Entrega,SuperCompras,GO,457.11,6.0
+Funcionário foi grosseiro e mal educado,Atendimento,TechMart,BA,59.86,8.9
+Não recebi o produto comprado,Entrega,FastDelivery,MG,511.75,4.4
+Produto veio danificado na entrega,Produto Defeituoso,EletroMax,CE,602.56,12.7
+Taxa não informada na contratação,Cobrança Indevida,EletroMax,MG,108.54,2.8
+Cobrança duplicada no cartão,Cobrança Indevida,FastDelivery,SC,265.62,5.3
+Entrega foi feita no endereço errado,Entrega,FastDelivery,RS,35.65,1.2
+Entregador foi mal educado,Entrega,MegaStore,PE,459.56,6.8
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,TechMart,SC,1105.48,10.0
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,MegaStore,GO,628.39,2.1
+Produto não foi entregue no prazo,Entrega,TechMart,CE,612.7,5.1
+Produto não foi entregue no prazo,Entrega,MegaStore,SC,556.92,6.7
+Fui mal atendido na loja física,Atendimento,MegaStore,RJ,67.24,4.2
+Produto chegou muito atrasado,Entrega,MegaStore,PE,349.89,1.1
+Defeito na tela do celular,Produto Defeituoso,TechMart,RJ,130.78,14.5
+Fui mal atendido na loja física,Atendimento,EletroMax,PR,9.7,4.4
+Taxa não informada na contratação,Cobrança Indevida,SuperCompras,CE,282.53,5.3
+Valor diferente do acordado,Cobrança Indevida,EletroMax,RJ,321.32,6.8
+Cobrança duplicada no cartão,Cobrança Indevida,EletroMax,CE,439.67,8.5
+Produto não foi entregue no prazo,Entrega,TechMart,MG,599.56,4.7
+Produto chegou muito atrasado,Entrega,SuperCompras,BA,239.94,5.4
+Produto não corresponde à descrição,Produto Defeituoso,FastDelivery,RS,1739.53,1.8
+Não consegui resolver meu problema,Atendimento,SuperCompras,MG,45.96,13.8
+Atendente não soube me informar,Atendimento,FastDelivery,MG,39.6,3.5
+Entregador foi mal educado,Entrega,SuperCompras,GO,128.23,3.5
+Não consegui resolver meu problema,Atendimento,MegaStore,BA,58.9,18.8
+Atendimento muito demorado no telefone,Atendimento,EletroMax,PE,19.88,7.0
+Entrega foi feita no endereço errado,Entrega,MegaStore,GO,226.0,3.8
+Não recebi o produto comprado,Entrega,MegaStore,SC,284.53,5.5
+Produto veio danificado na entrega,Produto Defeituoso,SuperCompras,GO,1239.71,7.8
+Valor diferente do acordado,Cobrança Indevida,EletroMax,SC,221.17,6.4
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,TechMart,CE,62.61,7.9
+Produto veio danificado na entrega,Produto Defeituoso,EletroMax,RJ,1885.87,3.4
+Cobraram valor a mais na fatura,Cobrança Indevida,MegaStore,RJ,362.92,4.3
+Entregador foi mal educado,Entrega,MegaStore,SP,181.15,1.1
+Produto chegou muito atrasado,Entrega,SuperCompras,PE,273.38,4.8
+Cobrança duplicada no cartão,Cobrança Indevida,TechMart,SC,458.26,6.1
+Cobraram valor a mais na fatura,Cobrança Indevida,SuperCompras,GO,138.49,3.8
+Produto veio danificado na entrega,Produto Defeituoso,EletroMax,CE,181.38,12.6
+Taxa não informada na contratação,Cobrança Indevida,SuperCompras,PE,122.72,3.5
+Entregador foi mal educado,Entrega,TechMart,RS,530.02,5.0
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,FastDelivery,SP,89.27,3.2
+Entregador foi mal educado,Entrega,EletroMax,RS,651.94,6.3
+Produto veio danificado na entrega,Produto Defeituoso,FastDelivery,CE,1485.04,3.9
+Produto não corresponde à descrição,Produto Defeituoso,TechMart,PR,51.81,13.6
+Fui mal atendido na loja física,Atendimento,FastDelivery,GO,41.63,7.8
+Produto não foi entregue no prazo,Entrega,FastDelivery,BA,270.7,3.5
+Cobrança após cancelamento do serviço,Cobrança Indevida,EletroMax,CE,395.31,7.9
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,FastDelivery,BA,304.9,10.4
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,FastDelivery,CE,1465.92,6.1
+Taxa não informada na contratação,Cobrança Indevida,MegaStore,SC,170.37,6.7
+Não consegui resolver meu problema,Atendimento,FastDelivery,MG,52.34,18.5
+Produto não foi entregue no prazo,Entrega,FastDelivery,PE,279.27,5.6
+Atendimento muito demorado no telefone,Atendimento,MegaStore,SC,64.16,1.5
+Produto chegou com defeito de fábrica,Produto Defeituoso,MegaStore,GO,210.69,9.4
+Taxa não informada na contratação,Cobrança Indevida,TechMart,BA,431.47,7.9
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,EletroMax,PE,154.86,10.4
+Taxa não informada na contratação,Cobrança Indevida,MegaStore,RJ,50.57,2.6
+Produto não corresponde à descrição,Produto Defeituoso,SuperCompras,PR,1381.17,4.3
+Cobrança duplicada no cartão,Cobrança Indevida,FastDelivery,SC,432.08,2.2
+Produto veio danificado na entrega,Produto Defeituoso,FastDelivery,MG,1752.43,3.4
+Produto chegou muito atrasado,Entrega,TechMart,SC,97.88,2.2
+Cobrança duplicada no cartão,Cobrança Indevida,SuperCompras,PR,325.3,4.6
+Produto chegou com defeito de fábrica,Produto Defeituoso,MegaStore,SP,948.75,12.6
+Produto chegou muito atrasado,Entrega,FastDelivery,MG,675.92,5.0
+Produto veio danificado na entrega,Produto Defeituoso,TechMart,GO,321.53,9.6
+Funcionário foi grosseiro e mal educado,Atendimento,MegaStore,RJ,63.14,6.1
+Cobrança após cancelamento do serviço,Cobrança Indevida,TechMart,RJ,392.24,4.5
+Não recebi o produto comprado,Entrega,TechMart,SP,73.24,2.5
+Atendimento muito demorado no telefone,Atendimento,EletroMax,RJ,16.75,9.8
+Cobrança após cancelamento do serviço,Cobrança Indevida,TechMart,SC,50.3,4.6
+Atendimento muito demorado no telefone,Atendimento,EletroMax,PE,59.54,8.9
+Produto veio danificado na entrega,Produto Defeituoso,EletroMax,SC,431.64,12.5
+Atendimento muito demorado no telefone,Atendimento,MegaStore,SP,27.69,1.9
+Entregador foi mal educado,Entrega,SuperCompras,SC,269.91,6.1
+Defeito na tela do celular,Produto Defeituoso,MegaStore,PE,1162.98,7.7
+Atendimento muito demorado no telefone,Atendimento,SuperCompras,PE,55.38,10.7
+Funcionário foi grosseiro e mal educado,Atendimento,EletroMax,SC,73.29,17.6
+Cobraram valor a mais na fatura,Cobrança Indevida,TechMart,SP,77.19,5.6
+Não consegui resolver meu problema,Atendimento,MegaStore,SP,71.87,3.1
+Não recebi o produto comprado,Entrega,SuperCompras,BA,607.7,2.6
+Produto veio danificado na entrega,Produto Defeituoso,SuperCompras,SC,715.43,7.2
+Cobrança após cancelamento do serviço,Cobrança Indevida,SuperCompras,SP,433.49,8.8
+Taxa não informada na contratação,Cobrança Indevida,SuperCompras,CE,38.09,8.3
+Funcionário foi grosseiro e mal educado,Atendimento,SuperCompras,SP,88.65,8.6
+Não consegui resolver meu problema,Atendimento,EletroMax,PR,53.47,17.3
+Valor diferente do acordado,Cobrança Indevida,SuperCompras,MG,78.5,1.2
+Produto chegou muito atrasado,Entrega,TechMart,SC,215.7,2.4
+Cobrança duplicada no cartão,Cobrança Indevida,TechMart,BA,127.48,4.3
+Produto não corresponde à descrição,Produto Defeituoso,FastDelivery,MG,693.8,2.5
+Taxa não informada na contratação,Cobrança Indevida,SuperCompras,SP,171.02,7.1
+Cobrança duplicada no cartão,Cobrança Indevida,MegaStore,PE,53.86,9.2
+Produto chegou com defeito de fábrica,Produto Defeituoso,FastDelivery,PR,1112.03,2.1
+Cobraram valor a mais na fatura,Cobrança Indevida,MegaStore,PR,432.63,2.5
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,FastDelivery,SP,1681.02,8.0
+Produto chegou com defeito de fábrica,Produto Defeituoso,MegaStore,BA,1962.55,9.5
+Entrega foi feita no endereço errado,Entrega,EletroMax,RS,610.99,3.7
+Produto chegou muito atrasado,Entrega,SuperCompras,CE,179.59,3.7
+Produto não foi entregue no prazo,Entrega,FastDelivery,SP,149.95,4.3
+Não consegui resolver meu problema,Atendimento,SuperCompras,SC,41.35,1.8
+Fui mal atendido na loja física,Atendimento,FastDelivery,CE,73.47,14.3
+Cobrança duplicada no cartão,Cobrança Indevida,TechMart,PR,87.78,7.9
+Produto veio danificado na entrega,Produto Defeituoso,SuperCompras,MG,1273.95,3.7
+Atendimento muito demorado no telefone,Atendimento,TechMart,PE,91.76,17.9
+Entrega foi feita no endereço errado,Entrega,MegaStore,BA,661.65,4.4
+Entrega foi feita no endereço errado,Entrega,SuperCompras,RJ,560.38,4.3
+Produto não foi entregue no prazo,Entrega,TechMart,CE,775.16,4.9
+Valor diferente do acordado,Cobrança Indevida,TechMart,SP,112.72,5.2
+Funcionário foi grosseiro e mal educado,Atendimento,FastDelivery,RJ,88.37,7.5
+Valor diferente do acordado,Cobrança Indevida,SuperCompras,SP,429.75,7.5
+Produto chegou muito atrasado,Entrega,EletroMax,SC,185.66,4.3
+Atendimento muito demorado no telefone,Atendimento,TechMart,GO,91.08,1.1
+Defeito na tela do celular,Produto Defeituoso,TechMart,RS,1855.82,3.3
+Entrega foi feita no endereço errado,Entrega,MegaStore,PR,450.94,6.3
+Entrega foi feita no endereço errado,Entrega,EletroMax,SP,180.5,2.0
+Produto veio danificado na entrega,Produto Defeituoso,SuperCompras,SP,775.56,11.6
+Valor diferente do acordado,Cobrança Indevida,SuperCompras,RS,299.9,6.2
+Produto não foi entregue no prazo,Entrega,EletroMax,PR,701.92,1.5
+Atendimento muito demorado no telefone,Atendimento,SuperCompras,CE,26.18,12.9
+Entregador foi mal educado,Entrega,MegaStore,RJ,736.26,4.3
+Produto não foi entregue no prazo,Entrega,FastDelivery,SP,270.39,5.4
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,MegaStore,GO,1598.17,14.2
+Valor diferente do acordado,Cobrança Indevida,EletroMax,SC,209.63,1.5
+Funcionário foi grosseiro e mal educado,Atendimento,EletroMax,BA,35.7,13.1
+Produto não foi entregue no prazo,Entrega,MegaStore,CE,187.13,2.8
+Atendimento muito demorado no telefone,Atendimento,EletroMax,RS,21.6,19.4
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,MegaStore,RJ,882.85,7.7
+Entrega foi feita no endereço errado,Entrega,FastDelivery,SP,574.6,2.5
+Atendente não soube me informar,Atendimento,SuperCompras,PR,20.6,1.0
+Funcionário foi grosseiro e mal educado,Atendimento,TechMart,BA,24.24,13.6
+Atendente não soube me informar,Atendimento,SuperCompras,RS,85.7,18.8
+Valor diferente do acordado,Cobrança Indevida,SuperCompras,RS,220.78,3.8
+Entregador foi mal educado,Entrega,EletroMax,RS,121.92,3.0
+Cobrança após cancelamento do serviço,Cobrança Indevida,MegaStore,GO,247.25,8.7
+Atendente não soube me informar,Atendimento,MegaStore,PR,8.81,15.8
+Cobrança após cancelamento do serviço,Cobrança Indevida,MegaStore,MG,99.44,7.4
+Produto chegou com defeito de fábrica,Produto Defeituoso,MegaStore,SC,462.9,1.6
+Produto chegou com defeito de fábrica,Produto Defeituoso,MegaStore,SC,1722.97,10.3
+Taxa não informada na contratação,Cobrança Indevida,FastDelivery,SC,273.24,3.3
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,SuperCompras,SP,286.54,5.2
+Cobraram valor a mais na fatura,Cobrança Indevida,FastDelivery,BA,308.28,2.5
+Fui mal atendido na loja física,Atendimento,TechMart,RS,58.27,3.4
+Produto não foi entregue no prazo,Entrega,SuperCompras,RJ,171.51,3.0
+Cobraram valor a mais na fatura,Cobrança Indevida,FastDelivery,PE,215.79,3.5
+Entregador foi mal educado,Entrega,FastDelivery,CE,656.12,2.5
+Entregador foi mal educado,Entrega,SuperCompras,SC,607.46,5.8
+Entrega foi feita no endereço errado,Entrega,FastDelivery,GO,328.63,2.7
+Fui mal atendido na loja física,Atendimento,FastDelivery,SC,33.63,18.5
+Atendimento muito demorado no telefone,Atendimento,MegaStore,RJ,6.31,7.2
+Entregador foi mal educado,Entrega,EletroMax,PE,212.19,3.9
+Taxa não informada na contratação,Cobrança Indevida,FastDelivery,PE,239.27,8.6
+Não consegui resolver meu problema,Atendimento,SuperCompras,PE,76.87,2.2
+Atendimento muito demorado no telefone,Atendimento,MegaStore,BA,3.65,2.0
+Fui mal atendido na loja física,Atendimento,TechMart,PR,25.09,2.9
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,FastDelivery,MG,1728.56,5.8
+Fui mal atendido na loja física,Atendimento,FastDelivery,PR,9.95,15.6
+Taxa não informada na contratação,Cobrança Indevida,SuperCompras,CE,435.23,6.4
+Produto não foi entregue no prazo,Entrega,FastDelivery,CE,515.69,3.7
+Taxa não informada na contratação,Cobrança Indevida,MegaStore,SC,101.48,1.9
+Fui mal atendido na loja física,Atendimento,TechMart,GO,17.19,11.4
+Fui mal atendido na loja física,Atendimento,MegaStore,MG,85.2,11.6
+Atendente não soube me informar,Atendimento,SuperCompras,RJ,37.7,12.5
+Fui mal atendido na loja física,Atendimento,SuperCompras,CE,57.57,3.4
+Não recebi o produto comprado,Entrega,TechMart,PR,443.75,2.2
+Entregador foi mal educado,Entrega,TechMart,PR,273.49,6.1
+Não recebi o produto comprado,Entrega,MegaStore,RS,612.47,3.8
+Valor diferente do acordado,Cobrança Indevida,SuperCompras,PR,497.85,5.1
+Produto veio danificado na entrega,Produto Defeituoso,TechMart,BA,457.74,2.8
+Entregador foi mal educado,Entrega,FastDelivery,GO,465.37,1.1
+Defeito na tela do celular,Produto Defeituoso,FastDelivery,CE,1642.48,13.4
+Produto não foi entregue no prazo,Entrega,FastDelivery,PR,733.19,3.3
+Produto chegou muito atrasado,Entrega,EletroMax,RJ,750.25,5.5
+Fui mal atendido na loja física,Atendimento,SuperCompras,CE,42.86,12.9
+Cobraram valor a mais na fatura,Cobrança Indevida,EletroMax,MG,118.31,8.2
+Fui mal atendido na loja física,Atendimento,EletroMax,MG,24.23,4.9
+Atendente não soube me informar,Atendimento,SuperCompras,GO,33.88,8.7
+Atendente não soube me informar,Atendimento,EletroMax,MG,64.04,17.2
+Cobrança duplicada no cartão,Cobrança Indevida,TechMart,BA,151.51,6.3
+Produto chegou com defeito de fábrica,Produto Defeituoso,EletroMax,RJ,1497.62,4.2
+Não recebi o produto comprado,Entrega,EletroMax,RJ,395.22,2.0
+Atendimento muito demorado no telefone,Atendimento,MegaStore,GO,58.33,17.8
+Taxa não informada na contratação,Cobrança Indevida,TechMart,SC,401.92,1.7
+Cobraram valor a mais na fatura,Cobrança Indevida,FastDelivery,BA,143.08,9.4
+Produto chegou muito atrasado,Entrega,MegaStore,RJ,689.76,3.8
+Atendimento muito demorado no telefone,Atendimento,EletroMax,RS,93.89,6.6
+Atendente não soube me informar,Atendimento,MegaStore,SC,68.91,17.4
+Atendente não soube me informar,Atendimento,TechMart,BA,3.04,14.8
+Entrega foi feita no endereço errado,Entrega,EletroMax,RS,72.05,6.8
+Produto veio danificado na entrega,Produto Defeituoso,TechMart,RJ,1686.93,10.1
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,FastDelivery,RS,1444.99,14.6
+Produto não foi entregue no prazo,Entrega,FastDelivery,PR,286.2,6.6
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,SuperCompras,PE,399.37,13.5
+Funcionário foi grosseiro e mal educado,Atendimento,MegaStore,MG,52.16,3.4
+Produto veio danificado na entrega,Produto Defeituoso,EletroMax,SP,92.6,11.8
+Defeito na tela do celular,Produto Defeituoso,EletroMax,GO,885.29,1.4
+Entrega foi feita no endereço errado,Entrega,TechMart,GO,717.84,3.6
+Defeito na tela do celular,Produto Defeituoso,SuperCompras,CE,1043.83,13.7
+Taxa não informada na contratação,Cobrança Indevida,MegaStore,PR,473.78,1.5
+Atendente não soube me informar,Atendimento,FastDelivery,SC,27.87,19.2
+Entregador foi mal educado,Entrega,SuperCompras,SC,763.15,5.9
+Produto chegou com defeito de fábrica,Produto Defeituoso,EletroMax,MG,1650.15,6.5
+Produto chegou muito atrasado,Entrega,TechMart,SC,79.2,1.4
+Entregador foi mal educado,Entrega,SuperCompras,PR,393.61,5.3
+Não consegui resolver meu problema,Atendimento,EletroMax,SP,90.96,1.1
+Não consegui resolver meu problema,Atendimento,MegaStore,GO,9.13,4.1
+Não consegui resolver meu problema,Atendimento,FastDelivery,PE,1.42,5.9
+Valor diferente do acordado,Cobrança Indevida,MegaStore,SP,122.31,8.8
+Não consegui resolver meu problema,Atendimento,TechMart,BA,40.56,4.2
+Atendimento muito demorado no telefone,Atendimento,EletroMax,RS,60.32,5.3
+Cobrança após cancelamento do serviço,Cobrança Indevida,SuperCompras,CE,495.34,6.5
+Produto não corresponde à descrição,Produto Defeituoso,MegaStore,BA,799.81,5.9
+Produto não foi entregue no prazo,Entrega,FastDelivery,GO,288.6,4.1
+Cobrança duplicada no cartão,Cobrança Indevida,EletroMax,RS,134.38,3.0
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,MegaStore,BA,1046.63,7.2
+Não consegui resolver meu problema,Atendimento,FastDelivery,RJ,65.43,17.6
+Atendente não soube me informar,Atendimento,SuperCompras,BA,38.88,3.5
+Cobraram valor a mais na fatura,Cobrança Indevida,MegaStore,PE,137.12,9.7
+Taxa não informada na contratação,Cobrança Indevida,EletroMax,RS,421.98,3.9
+Não recebi o produto comprado,Entrega,SuperCompras,SC,235.41,1.7
+Defeito na tela do celular,Produto Defeituoso,TechMart,SP,1507.23,1.7
+Fui mal atendido na loja física,Atendimento,FastDelivery,RJ,0.68,15.5
+Taxa não informada na contratação,Cobrança Indevida,SuperCompras,CE,270.8,6.8
+Defeito na tela do celular,Produto Defeituoso,TechMart,MG,1234.28,2.2
+Taxa não informada na contratação,Cobrança Indevida,SuperCompras,SC,493.51,3.5
+Atendente não soube me informar,Atendimento,SuperCompras,PR,46.03,5.1
+Funcionário foi grosseiro e mal educado,Atendimento,MegaStore,MG,6.89,10.2
+Produto veio danificado na entrega,Produto Defeituoso,SuperCompras,RS,224.65,11.0
+Produto chegou muito atrasado,Entrega,EletroMax,CE,35.69,4.1
+Defeito na tela do celular,Produto Defeituoso,MegaStore,MG,1610.27,4.4
+Produto chegou muito atrasado,Entrega,FastDelivery,PE,628.85,6.1
+Fui mal atendido na loja física,Atendimento,MegaStore,SC,68.72,6.9
+Cobraram valor a mais na fatura,Cobrança Indevida,TechMart,RJ,24.72,4.7
+Não recebi o produto comprado,Entrega,MegaStore,CE,372.02,1.8
+Cobrança duplicada no cartão,Cobrança Indevida,FastDelivery,CE,492.28,9.2
+Cobrança após cancelamento do serviço,Cobrança Indevida,TechMart,PE,337.91,6.5
+Entrega foi feita no endereço errado,Entrega,TechMart,PE,608.88,4.4
+Produto não corresponde à descrição,Produto Defeituoso,MegaStore,GO,700.86,9.1
+Cobrança após cancelamento do serviço,Cobrança Indevida,SuperCompras,CE,362.94,5.0
+Cobrança duplicada no cartão,Cobrança Indevida,EletroMax,BA,162.29,9.4
+Valor diferente do acordado,Cobrança Indevida,TechMart,RJ,143.89,5.2
+Cobraram valor a mais na fatura,Cobrança Indevida,EletroMax,SC,359.66,2.0
+Funcionário foi grosseiro e mal educado,Atendimento,FastDelivery,PE,43.86,1.7
+Entregador foi mal educado,Entrega,TechMart,RS,234.48,5.8
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,EletroMax,PR,898.28,5.1
+Funcionário foi grosseiro e mal educado,Atendimento,MegaStore,RJ,22.03,3.0
+Não consegui resolver meu problema,Atendimento,SuperCompras,RJ,52.82,9.9
+Cobrança após cancelamento do serviço,Cobrança Indevida,FastDelivery,PR,81.96,7.7
+Produto não corresponde à descrição,Produto Defeituoso,SuperCompras,CE,552.08,2.9
+Produto não corresponde à descrição,Produto Defeituoso,EletroMax,BA,1651.23,14.6
+Entrega foi feita no endereço errado,Entrega,MegaStore,PE,747.91,6.1
+Não consegui resolver meu problema,Atendimento,FastDelivery,MG,78.91,12.5
+Cobraram valor a mais na fatura,Cobrança Indevida,SuperCompras,SP,421.46,9.8
+Funcionário foi grosseiro e mal educado,Atendimento,MegaStore,RS,82.18,13.3
+Produto não corresponde à descrição,Produto Defeituoso,MegaStore,BA,1547.36,11.5
+Produto chegou muito atrasado,Entrega,MegaStore,RJ,666.32,5.2
+Entrega foi feita no endereço errado,Entrega,EletroMax,PE,358.71,3.8
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,SuperCompras,RS,1074.37,1.9
+Atendimento muito demorado no telefone,Atendimento,MegaStore,CE,66.18,16.5
+Produto veio danificado na entrega,Produto Defeituoso,SuperCompras,SC,648.52,1.8
+Produto não corresponde à descrição,Produto Defeituoso,TechMart,PR,322.4,11.0
+Produto não corresponde à descrição,Produto Defeituoso,EletroMax,RJ,1357.99,12.5
+Não consegui resolver meu problema,Atendimento,TechMart,GO,24.32,11.5
+Entregador foi mal educado,Entrega,MegaStore,SC,661.79,5.6
+Entrega foi feita no endereço errado,Entrega,SuperCompras,PE,435.83,4.5
+Funcionário foi grosseiro e mal educado,Atendimento,SuperCompras,SC,18.66,4.6
+Fui mal atendido na loja física,Atendimento,TechMart,GO,12.49,11.0
+Entregador foi mal educado,Entrega,TechMart,PE,299.2,4.6
+Entregador foi mal educado,Entrega,SuperCompras,MG,230.51,6.0
+Entregador foi mal educado,Entrega,EletroMax,CE,188.53,3.1
+Taxa não informada na contratação,Cobrança Indevida,SuperCompras,PE,384.43,6.6
+Taxa não informada na contratação,Cobrança Indevida,SuperCompras,RS,184.78,4.0
+Fui mal atendido na loja física,Atendimento,SuperCompras,SC,77.69,2.3
+Funcionário foi grosseiro e mal educado,Atendimento,FastDelivery,SC,74.75,17.2
+Não recebi o produto comprado,Entrega,TechMart,SP,271.9,6.7
+Entregador foi mal educado,Entrega,TechMart,MG,578.41,2.1
+Atendente não soube me informar,Atendimento,EletroMax,CE,48.36,1.3
+Não consegui resolver meu problema,Atendimento,FastDelivery,RS,91.18,3.8
+Produto não corresponde à descrição,Produto Defeituoso,TechMart,RJ,1207.69,11.6
+Valor diferente do acordado,Cobrança Indevida,MegaStore,PR,214.63,9.9
+Funcionário foi grosseiro e mal educado,Atendimento,TechMart,CE,5.54,16.8
+Cobrança duplicada no cartão,Cobrança Indevida,FastDelivery,BA,441.8,2.8
+Entrega foi feita no endereço errado,Entrega,TechMart,BA,201.78,4.3
+Defeito na tela do celular,Produto Defeituoso,FastDelivery,SP,964.67,2.0
+Atendente não soube me informar,Atendimento,TechMart,BA,10.47,9.0
+Produto veio danificado na entrega,Produto Defeituoso,MegaStore,SC,932.12,11.3
+Produto veio danificado na entrega,Produto Defeituoso,FastDelivery,RS,219.23,4.3
+Funcionário foi grosseiro e mal educado,Atendimento,TechMart,RJ,53.73,13.9
+Não recebi o produto comprado,Entrega,EletroMax,SC,162.59,3.6
+Produto chegou muito atrasado,Entrega,TechMart,SP,155.98,5.2
+Não consegui resolver meu problema,Atendimento,TechMart,MG,22.63,3.5
+Valor diferente do acordado,Cobrança Indevida,SuperCompras,MG,127.33,8.7
+Atendente não soube me informar,Atendimento,FastDelivery,BA,21.77,2.5
+Produto chegou com defeito de fábrica,Produto Defeituoso,SuperCompras,CE,926.09,14.2
+Produto veio danificado na entrega,Produto Defeituoso,SuperCompras,PE,1267.02,7.6
+Atendimento muito demorado no telefone,Atendimento,TechMart,RJ,72.11,5.9
+Entrega foi feita no endereço errado,Entrega,EletroMax,RS,512.6,1.9
+Produto chegou muito atrasado,Entrega,MegaStore,MG,698.79,2.0
+Fui mal atendido na loja física,Atendimento,SuperCompras,RJ,91.26,4.4
+Produto não foi entregue no prazo,Entrega,TechMart,SC,89.13,3.5
+Defeito na tela do celular,Produto Defeituoso,FastDelivery,PR,213.73,11.8
+Produto veio danificado na entrega,Produto Defeituoso,EletroMax,PE,170.44,11.3
+Taxa não informada na contratação,Cobrança Indevida,FastDelivery,MG,117.8,3.3
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,SuperCompras,MG,1277.88,6.8
+Defeito na tela do celular,Produto Defeituoso,MegaStore,BA,155.98,1.3
+Atendimento muito demorado no telefone,Atendimento,FastDelivery,RJ,24.37,6.8
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,SuperCompras,CE,1477.15,3.4
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,EletroMax,BA,299.23,9.2
+Cobrança após cancelamento do serviço,Cobrança Indevida,MegaStore,CE,324.77,8.7
+Não consegui resolver meu problema,Atendimento,FastDelivery,CE,89.1,16.5
+Entrega foi feita no endereço errado,Entrega,MegaStore,BA,730.87,1.9
+Não recebi o produto comprado,Entrega,FastDelivery,SC,243.4,3.7
+Cobrança após cancelamento do serviço,Cobrança Indevida,FastDelivery,GO,443.35,9.6
+Valor diferente do acordado,Cobrança Indevida,TechMart,MG,215.25,7.9
+Produto chegou muito atrasado,Entrega,MegaStore,GO,516.73,3.6
+Taxa não informada na contratação,Cobrança Indevida,SuperCompras,BA,378.28,2.3
+Produto não corresponde à descrição,Produto Defeituoso,TechMart,BA,796.66,3.5
+Entregador foi mal educado,Entrega,SuperCompras,PR,669.05,3.5
+Fui mal atendido na loja física,Atendimento,FastDelivery,SP,54.12,2.0
+Funcionário foi grosseiro e mal educado,Atendimento,EletroMax,CE,35.87,19.9
+Atendimento muito demorado no telefone,Atendimento,TechMart,SC,29.1,17.5
+Funcionário foi grosseiro e mal educado,Atendimento,SuperCompras,PE,49.24,4.7
+Cobrança após cancelamento do serviço,Cobrança Indevida,SuperCompras,SC,419.23,5.2
+Atendente não soube me informar,Atendimento,MegaStore,SC,89.87,9.7
+Entrega foi feita no endereço errado,Entrega,TechMart,PR,374.09,5.7
+Cobraram valor a mais na fatura,Cobrança Indevida,FastDelivery,RJ,429.5,9.4
+Funcionário foi grosseiro e mal educado,Atendimento,MegaStore,SC,38.21,1.5
+Cobraram valor a mais na fatura,Cobrança Indevida,MegaStore,MG,226.33,3.8
+Entregador foi mal educado,Entrega,MegaStore,PE,582.52,5.7
+Valor diferente do acordado,Cobrança Indevida,EletroMax,RJ,68.22,5.6
+Produto veio danificado na entrega,Produto Defeituoso,MegaStore,SC,1478.59,10.6
+Fui mal atendido na loja física,Atendimento,MegaStore,SC,4.16,4.9
+Produto não corresponde à descrição,Produto Defeituoso,SuperCompras,SP,1932.94,5.8
+Funcionário foi grosseiro e mal educado,Atendimento,MegaStore,GO,14.66,4.0
+Atendimento muito demorado no telefone,Atendimento,TechMart,PR,62.25,6.9
+Produto veio danificado na entrega,Produto Defeituoso,TechMart,SP,830.7,14.3
+Atendente não soube me informar,Atendimento,FastDelivery,SP,90.78,2.7
+Produto chegou muito atrasado,Entrega,FastDelivery,BA,639.31,2.2
+Fui mal atendido na loja física,Atendimento,TechMart,PR,95.23,1.9
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,TechMart,BA,1308.04,1.2
+Não recebi o produto comprado,Entrega,MegaStore,BA,228.49,5.2
+Cobrança duplicada no cartão,Cobrança Indevida,SuperCompras,BA,307.69,4.1
+Entregador foi mal educado,Entrega,EletroMax,RS,414.21,1.4
+Atendimento muito demorado no telefone,Atendimento,SuperCompras,PE,76.51,10.2
+Produto não corresponde à descrição,Produto Defeituoso,TechMart,SP,386.15,13.2
+Produto não foi entregue no prazo,Entrega,TechMart,MG,525.16,5.6
+Fui mal atendido na loja física,Atendimento,TechMart,SC,81.78,19.6
+Cobrança após cancelamento do serviço,Cobrança Indevida,TechMart,GO,270.02,7.0
+Entrega foi feita no endereço errado,Entrega,FastDelivery,CE,689.24,1.6
+Não recebi o produto comprado,Entrega,TechMart,GO,584.4,1.6
+Defeito na tela do celular,Produto Defeituoso,MegaStore,RJ,1408.67,2.4
+Produto chegou com defeito de fábrica,Produto Defeituoso,SuperCompras,GO,1614.39,6.4
+Entrega foi feita no endereço errado,Entrega,EletroMax,BA,359.21,2.0
+Fui mal atendido na loja física,Atendimento,EletroMax,SP,7.89,4.6
+Cobraram valor a mais na fatura,Cobrança Indevida,MegaStore,SP,192.19,5.8
+Não consegui resolver meu problema,Atendimento,EletroMax,BA,34.1,16.3
+Atendimento muito demorado no telefone,Atendimento,SuperCompras,PE,33.33,10.3
+Produto não corresponde à descrição,Produto Defeituoso,MegaStore,SC,1598.21,7.8
+Produto não foi entregue no prazo,Entrega,FastDelivery,CE,213.91,6.7
+Taxa não informada na contratação,Cobrança Indevida,EletroMax,SP,36.88,3.9
+Atendente não soube me informar,Atendimento,MegaStore,SP,67.24,7.2
+Produto não foi entregue no prazo,Entrega,TechMart,SC,382.48,5.6
+Atendimento muito demorado no telefone,Atendimento,FastDelivery,PR,2.11,9.0
+Atendimento muito demorado no telefone,Atendimento,TechMart,PR,20.5,15.1
+Cobrança após cancelamento do serviço,Cobrança Indevida,SuperCompras,PE,115.13,8.9
+Funcionário foi grosseiro e mal educado,Atendimento,MegaStore,CE,26.75,10.9
+Entrega foi feita no endereço errado,Entrega,EletroMax,SC,595.76,2.9
+Entrega foi feita no endereço errado,Entrega,SuperCompras,PR,570.85,5.0
+Não recebi o produto comprado,Entrega,SuperCompras,SC,70.06,1.7
+Cobrança duplicada no cartão,Cobrança Indevida,MegaStore,SP,397.63,5.6
+Cobrança duplicada no cartão,Cobrança Indevida,FastDelivery,PR,116.34,8.9
+Taxa não informada na contratação,Cobrança Indevida,FastDelivery,RJ,317.87,6.7
+Funcionário foi grosseiro e mal educado,Atendimento,MegaStore,CE,53.28,10.0
+Não consegui resolver meu problema,Atendimento,EletroMax,PR,75.65,2.8
+Funcionário foi grosseiro e mal educado,Atendimento,MegaStore,PE,94.62,12.0
+Produto chegou muito atrasado,Entrega,EletroMax,BA,78.44,2.1
+Cobraram valor a mais na fatura,Cobrança Indevida,EletroMax,CE,367.2,2.2
+Fui mal atendido na loja física,Atendimento,FastDelivery,RS,30.12,5.7
+Produto veio danificado na entrega,Produto Defeituoso,FastDelivery,GO,844.45,14.8
+Produto veio danificado na entrega,Produto Defeituoso,SuperCompras,RJ,153.01,9.8
+Produto não foi entregue no prazo,Entrega,MegaStore,RJ,711.88,1.1
+Não recebi o produto comprado,Entrega,FastDelivery,RJ,275.49,4.6
+Defeito na tela do celular,Produto Defeituoso,FastDelivery,SP,80.61,6.0
+Produto chegou muito atrasado,Entrega,SuperCompras,GO,567.02,4.9
+Não consegui resolver meu problema,Atendimento,TechMart,RJ,84.22,5.0
+Não recebi o produto comprado,Entrega,EletroMax,RJ,431.72,2.6
+Entregador foi mal educado,Entrega,SuperCompras,RJ,272.98,5.7
+Entrega foi feita no endereço errado,Entrega,EletroMax,PR,338.75,3.1
+Produto chegou com defeito de fábrica,Produto Defeituoso,TechMart,RJ,349.16,6.1
+Taxa não informada na contratação,Cobrança Indevida,TechMart,PR,403.26,7.4
+Não recebi o produto comprado,Entrega,EletroMax,RJ,766.05,1.4
+Produto não foi entregue no prazo,Entrega,FastDelivery,PR,456.66,2.0
+Funcionário foi grosseiro e mal educado,Atendimento,FastDelivery,MG,64.42,13.4
+Cobrança após cancelamento do serviço,Cobrança Indevida,SuperCompras,CE,370.02,5.5
+Taxa não informada na contratação,Cobrança Indevida,TechMart,CE,25.06,1.8
+Produto não corresponde à descrição,Produto Defeituoso,MegaStore,GO,275.43,6.4
+Valor diferente do acordado,Cobrança Indevida,EletroMax,SP,443.76,5.3
+Não consegui resolver meu problema,Atendimento,EletroMax,PE,46.2,18.2
+Produto chegou muito atrasado,Entrega,MegaStore,GO,722.62,6.6
+Atendimento muito demorado no telefone,Atendimento,SuperCompras,SP,83.55,19.3
+Entregador foi mal educado,Entrega,FastDelivery,SP,679.63,2.2
+Entregador foi mal educado,Entrega,MegaStore,SP,579.48,2.2
+Entregador foi mal educado,Entrega,TechMart,GO,774.27,3.7
+Produto chegou muito atrasado,Entrega,SuperCompras,BA,582.76,7.0
+Atendimento muito demorado no telefone,Atendimento,MegaStore,BA,70.22,8.1
+Não consegui resolver meu problema,Atendimento,MegaStore,MG,77.79,8.3
+Fui mal atendido na loja física,Atendimento,MegaStore,GO,36.29,12.4
+Cobraram valor a mais na fatura,Cobrança Indevida,TechMart,RS,369.64,3.8
+Defeito na tela do celular,Produto Defeituoso,TechMart,PR,663.4,2.2
+Não consegui resolver meu problema,Atendimento,TechMart,SP,7.67,9.1
+Entrega foi feita no endereço errado,Entrega,TechMart,SP,272.87,5.1
+Atendimento muito demorado no telefone,Atendimento,TechMart,SP,97.89,8.3
+Entregador foi mal educado,Entrega,SuperCompras,BA,126.79,3.5
+Atendente não soube me informar,Atendimento,EletroMax,GO,10.52,13.8
+Não consegui resolver meu problema,Atendimento,FastDelivery,RS,7.31,6.2
+Cobraram valor a mais na fatura,Cobrança Indevida,SuperCompras,BA,268.74,1.3
+Taxa não informada na contratação,Cobrança Indevida,SuperCompras,GO,478.41,9.3
+Defeito na tela do celular,Produto Defeituoso,TechMart,GO,1816.74,8.6
+Cobrança após cancelamento do serviço,Cobrança Indevida,SuperCompras,GO,261.79,8.5
+Entregador foi mal educado,Entrega,TechMart,BA,750.35,6.5
+Cobraram valor a mais na fatura,Cobrança Indevida,EletroMax,BA,375.83,8.4
+Entrega foi feita no endereço errado,Entrega,MegaStore,SC,492.41,4.2
+Produto não corresponde à descrição,Produto Defeituoso,MegaStore,BA,1479.11,8.1
+Fui mal atendido na loja física,Atendimento,EletroMax,BA,56.5,2.7
+Defeito na tela do celular,Produto Defeituoso,MegaStore,SP,1402.13,14.9
+Produto chegou muito atrasado,Entrega,FastDelivery,CE,369.09,4.3
+Fui mal atendido na loja física,Atendimento,SuperCompras,RS,96.02,13.5
+Entregador foi mal educado,Entrega,EletroMax,PE,606.04,2.2
+Não recebi o produto comprado,Entrega,TechMart,PE,269.48,6.3
+Produto não foi entregue no prazo,Entrega,SuperCompras,SC,791.05,3.8
+Taxa não informada na contratação,Cobrança Indevida,TechMart,PR,474.83,7.9
+Entrega foi feita no endereço errado,Entrega,FastDelivery,SC,595.77,2.5
+Defeito na tela do celular,Produto Defeituoso,EletroMax,SC,1146.18,8.7
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,MegaStore,SC,574.28,1.3
+Valor diferente do acordado,Cobrança Indevida,MegaStore,BA,89.12,10.0
+Atendimento muito demorado no telefone,Atendimento,MegaStore,SC,60.39,1.9
+Atendimento muito demorado no telefone,Atendimento,TechMart,MG,23.04,14.0
+Defeito na tela do celular,Produto Defeituoso,FastDelivery,SP,1898.99,7.8
+Entrega foi feita no endereço errado,Entrega,EletroMax,SP,620.09,4.9
+Não consegui resolver meu problema,Atendimento,MegaStore,PE,71.4,18.6
+Produto chegou com defeito de fábrica,Produto Defeituoso,FastDelivery,PR,1468.75,9.8
+Produto não corresponde à descrição,Produto Defeituoso,MegaStore,SC,269.15,4.8
+Produto chegou muito atrasado,Entrega,TechMart,SP,494.92,2.8
+Atendimento muito demorado no telefone,Atendimento,TechMart,RS,44.37,17.9
+Cobraram valor a mais na fatura,Cobrança Indevida,SuperCompras,SP,482.22,6.5
+Taxa não informada na contratação,Cobrança Indevida,MegaStore,PE,60.69,8.3
+Não recebi o produto comprado,Entrega,TechMart,BA,298.63,6.5
+Produto não foi entregue no prazo,Entrega,FastDelivery,RJ,645.29,4.1
+Entregador foi mal educado,Entrega,SuperCompras,BA,785.19,1.9
+Valor diferente do acordado,Cobrança Indevida,MegaStore,RJ,480.7,7.1
+Produto chegou com defeito de fábrica,Produto Defeituoso,EletroMax,MG,206.04,6.0
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,TechMart,GO,685.91,4.1
+Produto não corresponde à descrição,Produto Defeituoso,MegaStore,BA,1443.4,9.7
+Atendimento muito demorado no telefone,Atendimento,TechMart,PR,33.64,10.9
+Produto chegou com defeito de fábrica,Produto Defeituoso,TechMart,SP,1030.43,3.0
+Produto chegou muito atrasado,Entrega,TechMart,SP,431.81,4.5
+Produto chegou muito atrasado,Entrega,SuperCompras,PE,579.02,3.2
+Cobrança após cancelamento do serviço,Cobrança Indevida,FastDelivery,PR,443.08,6.3
+Produto chegou com defeito de fábrica,Produto Defeituoso,SuperCompras,BA,1369.12,3.7
+Atendente não soube me informar,Atendimento,EletroMax,SC,38.65,9.0
+Valor diferente do acordado,Cobrança Indevida,TechMart,GO,443.0,1.7
+Não recebi o produto comprado,Entrega,EletroMax,GO,468.07,6.3
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,FastDelivery,CE,1354.85,6.7
+Cobrança após cancelamento do serviço,Cobrança Indevida,TechMart,PR,111.71,8.1
+Produto chegou muito atrasado,Entrega,MegaStore,SP,606.73,2.6
+Atendente não soube me informar,Atendimento,FastDelivery,SP,44.64,11.5
+Valor diferente do acordado,Cobrança Indevida,MegaStore,PE,271.18,2.1
+Valor diferente do acordado,Cobrança Indevida,FastDelivery,GO,395.33,2.8
+Taxa não informada na contratação,Cobrança Indevida,TechMart,PR,37.44,1.9
+Atendimento muito demorado no telefone,Atendimento,TechMart,CE,20.09,6.8
+Fui mal atendido na loja física,Atendimento,MegaStore,CE,76.72,19.5
+Atendente não soube me informar,Atendimento,MegaStore,CE,74.33,9.3
+Não recebi o produto comprado,Entrega,TechMart,RJ,759.85,1.4
+Produto veio danificado na entrega,Produto Defeituoso,TechMart,CE,927.12,11.6
+Cobrança duplicada no cartão,Cobrança Indevida,MegaStore,GO,148.48,4.7
+Não recebi o produto comprado,Entrega,SuperCompras,SC,558.0,6.2
+Taxa não informada na contratação,Cobrança Indevida,SuperCompras,RS,216.2,4.9
+Entrega foi feita no endereço errado,Entrega,MegaStore,CE,145.33,1.4
+Produto não corresponde à descrição,Produto Defeituoso,TechMart,RJ,750.05,12.3
+Defeito na tela do celular,Produto Defeituoso,EletroMax,BA,646.22,2.0
+Não recebi o produto comprado,Entrega,SuperCompras,SP,130.34,3.1
+Atendente não soube me informar,Atendimento,EletroMax,GO,83.06,11.9
+Entregador foi mal educado,Entrega,SuperCompras,RJ,436.24,4.9
+Produto não corresponde à descrição,Produto Defeituoso,MegaStore,MG,653.27,10.7
+Funcionário foi grosseiro e mal educado,Atendimento,FastDelivery,MG,7.27,16.0
+Atendente não soube me informar,Atendimento,SuperCompras,CE,74.09,13.6
+Entregador foi mal educado,Entrega,SuperCompras,CE,256.92,4.4
+Valor diferente do acordado,Cobrança Indevida,MegaStore,PE,215.08,8.7
+Produto chegou com defeito de fábrica,Produto Defeituoso,FastDelivery,PR,526.85,4.2
+Defeito na tela do celular,Produto Defeituoso,TechMart,PE,905.4,4.1
+Não consegui resolver meu problema,Atendimento,TechMart,SC,8.93,9.3
+Cobrança após cancelamento do serviço,Cobrança Indevida,TechMart,MG,56.25,8.4
+Produto veio danificado na entrega,Produto Defeituoso,TechMart,CE,1583.84,1.2
+Produto chegou com defeito de fábrica,Produto Defeituoso,SuperCompras,RS,58.01,1.2
+Atendente não soube me informar,Atendimento,EletroMax,RS,70.88,4.4
+Produto não corresponde à descrição,Produto Defeituoso,SuperCompras,SP,1540.29,12.1
+Cobraram valor a mais na fatura,Cobrança Indevida,EletroMax,CE,497.39,7.1
+Produto chegou muito atrasado,Entrega,TechMart,PR,251.3,4.3
+Defeito na tela do celular,Produto Defeituoso,TechMart,PE,396.24,13.8
+Defeito na tela do celular,Produto Defeituoso,EletroMax,SP,1216.47,9.4
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,TechMart,CE,1951.42,4.3
+Taxa não informada na contratação,Cobrança Indevida,FastDelivery,PR,437.61,6.7
+Atendente não soube me informar,Atendimento,MegaStore,GO,15.69,1.3
+Taxa não informada na contratação,Cobrança Indevida,SuperCompras,CE,86.38,4.8
+Produto chegou com defeito de fábrica,Produto Defeituoso,FastDelivery,RS,1755.76,14.1
+Produto não foi entregue no prazo,Entrega,SuperCompras,BA,665.93,2.8
+Produto veio danificado na entrega,Produto Defeituoso,TechMart,PR,961.41,5.0
+Cobrança após cancelamento do serviço,Cobrança Indevida,MegaStore,SP,272.87,1.5
+Valor diferente do acordado,Cobrança Indevida,SuperCompras,MG,277.0,8.1
+Produto chegou com defeito de fábrica,Produto Defeituoso,SuperCompras,GO,700.72,5.4
+Produto chegou com defeito de fábrica,Produto Defeituoso,MegaStore,RS,1624.7,8.1
+Defeito na tela do celular,Produto Defeituoso,FastDelivery,SC,1874.71,9.4
+Atendente não soube me informar,Atendimento,SuperCompras,RJ,97.52,19.3
+Funcionário foi grosseiro e mal educado,Atendimento,SuperCompras,RJ,51.76,3.4
+Produto veio danificado na entrega,Produto Defeituoso,SuperCompras,PR,680.23,14.1
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,MegaStore,SC,1257.29,3.2
+Não recebi o produto comprado,Entrega,EletroMax,RJ,158.55,1.7
+Atendimento muito demorado no telefone,Atendimento,MegaStore,CE,30.99,10.6
+Atendente não soube me informar,Atendimento,SuperCompras,BA,90.84,15.8
+Produto veio danificado na entrega,Produto Defeituoso,MegaStore,PE,1823.69,9.9
+Atendimento muito demorado no telefone,Atendimento,MegaStore,CE,23.39,4.8
+Cobrança após cancelamento do serviço,Cobrança Indevida,TechMart,RJ,167.07,2.4
+Produto não corresponde à descrição,Produto Defeituoso,TechMart,PR,705.8,5.6
+Cobraram valor a mais na fatura,Cobrança Indevida,SuperCompras,SC,111.73,7.9
+Entregador foi mal educado,Entrega,TechMart,SP,188.53,2.9
+Taxa não informada na contratação,Cobrança Indevida,MegaStore,SC,71.01,8.6
+Taxa não informada na contratação,Cobrança Indevida,MegaStore,PE,452.36,9.4
+Taxa não informada na contratação,Cobrança Indevida,TechMart,SC,73.59,2.0
+Funcionário foi grosseiro e mal educado,Atendimento,TechMart,MG,85.88,12.9
+Cobrança duplicada no cartão,Cobrança Indevida,FastDelivery,SC,130.87,8.2
+Cobraram valor a mais na fatura,Cobrança Indevida,EletroMax,PR,47.94,9.3
+Produto não corresponde à descrição,Produto Defeituoso,FastDelivery,GO,1361.04,8.4
+Atendente não soube me informar,Atendimento,MegaStore,PR,85.05,17.7
+Cobrança após cancelamento do serviço,Cobrança Indevida,EletroMax,PE,203.47,3.5
+Entrega foi feita no endereço errado,Entrega,SuperCompras,BA,358.88,1.8
+Cobraram valor a mais na fatura,Cobrança Indevida,EletroMax,CE,293.28,4.4
+Fui mal atendido na loja física,Atendimento,SuperCompras,PE,86.72,13.8
+Produto não foi entregue no prazo,Entrega,TechMart,GO,135.11,2.4
+Taxa não informada na contratação,Cobrança Indevida,TechMart,GO,64.69,5.2
+Produto chegou muito atrasado,Entrega,EletroMax,SP,571.02,6.7
+Cobraram valor a mais na fatura,Cobrança Indevida,MegaStore,RJ,163.11,2.1
+Atendimento muito demorado no telefone,Atendimento,EletroMax,BA,11.24,2.4
+Produto não foi entregue no prazo,Entrega,FastDelivery,PE,302.25,1.8
+Taxa não informada na contratação,Cobrança Indevida,FastDelivery,SP,468.71,8.5
+Atendimento muito demorado no telefone,Atendimento,EletroMax,BA,4.03,16.3
+Fui mal atendido na loja física,Atendimento,FastDelivery,SP,23.99,2.6
+Atendente não soube me informar,Atendimento,SuperCompras,PE,45.56,14.4
+Cobraram valor a mais na fatura,Cobrança Indevida,MegaStore,PE,109.65,8.5
+Cobrança duplicada no cartão,Cobrança Indevida,TechMart,GO,200.87,5.8
+Defeito na tela do celular,Produto Defeituoso,FastDelivery,PR,538.44,12.3
+Taxa não informada na contratação,Cobrança Indevida,SuperCompras,BA,262.05,8.8
+Produto veio danificado na entrega,Produto Defeituoso,FastDelivery,MG,1793.66,4.2
+Produto não foi entregue no prazo,Entrega,SuperCompras,MG,640.35,4.6
+Produto não corresponde à descrição,Produto Defeituoso,FastDelivery,RS,797.79,3.1
+Produto não foi entregue no prazo,Entrega,SuperCompras,RS,481.05,4.5
+Produto chegou muito atrasado,Entrega,FastDelivery,RJ,797.54,1.9
+Valor diferente do acordado,Cobrança Indevida,TechMart,PR,209.51,6.8
+Funcionário foi grosseiro e mal educado,Atendimento,TechMart,MG,72.95,1.4
+Produto chegou com defeito de fábrica,Produto Defeituoso,TechMart,GO,1667.39,5.2
+Cobraram valor a mais na fatura,Cobrança Indevida,SuperCompras,SP,238.46,6.0
+Funcionário foi grosseiro e mal educado,Atendimento,TechMart,CE,28.37,9.3
+Produto não corresponde à descrição,Produto Defeituoso,SuperCompras,RJ,351.94,3.6
+Defeito na tela do celular,Produto Defeituoso,FastDelivery,PR,1032.2,3.6
+Produto não foi entregue no prazo,Entrega,TechMart,CE,598.49,3.0
+Não recebi o produto comprado,Entrega,EletroMax,RJ,529.04,1.1
+Produto chegou muito atrasado,Entrega,MegaStore,SC,268.58,1.5
+Produto não foi entregue no prazo,Entrega,FastDelivery,SP,127.87,3.1
+Cobrança após cancelamento do serviço,Cobrança Indevida,EletroMax,RJ,334.03,3.5
+Atendente não soube me informar,Atendimento,EletroMax,BA,61.34,6.0
+Taxa não informada na contratação,Cobrança Indevida,TechMart,CE,273.46,9.7
+Entregador foi mal educado,Entrega,MegaStore,RJ,560.07,2.0
+Defeito na tela do celular,Produto Defeituoso,FastDelivery,PE,71.06,10.8
+Cobrança após cancelamento do serviço,Cobrança Indevida,EletroMax,GO,276.34,8.9
+Funcionário foi grosseiro e mal educado,Atendimento,TechMart,SC,27.81,7.2
+Taxa não informada na contratação,Cobrança Indevida,SuperCompras,CE,285.98,5.7
+Taxa não informada na contratação,Cobrança Indevida,MegaStore,PE,114.78,9.9
+Produto veio danificado na entrega,Produto Defeituoso,SuperCompras,MG,1329.6,7.6
+Valor diferente do acordado,Cobrança Indevida,SuperCompras,PE,365.58,7.8
+Fui mal atendido na loja física,Atendimento,EletroMax,SP,30.62,13.5
+Entregador foi mal educado,Entrega,SuperCompras,MG,429.11,3.8
+Produto não foi entregue no prazo,Entrega,EletroMax,RS,592.01,3.5
+Entregador foi mal educado,Entrega,MegaStore,PE,500.49,4.7
+Valor diferente do acordado,Cobrança Indevida,SuperCompras,GO,454.38,8.4
+Cobrança duplicada no cartão,Cobrança Indevida,EletroMax,CE,66.47,5.3
+Entrega foi feita no endereço errado,Entrega,FastDelivery,RS,416.11,2.4
+Entregador foi mal educado,Entrega,EletroMax,RS,205.64,6.5
+Taxa não informada na contratação,Cobrança Indevida,TechMart,PE,260.93,6.4
+Cobrança duplicada no cartão,Cobrança Indevida,TechMart,RJ,262.37,2.6
+Cobrança duplicada no cartão,Cobrança Indevida,FastDelivery,PE,127.79,5.2
+Funcionário foi grosseiro e mal educado,Atendimento,MegaStore,GO,63.59,17.6
+Atendimento muito demorado no telefone,Atendimento,TechMart,MG,18.36,5.8
+Cobrança duplicada no cartão,Cobrança Indevida,FastDelivery,CE,472.91,9.1
+Cobrança após cancelamento do serviço,Cobrança Indevida,TechMart,RS,69.69,2.0
+Defeito na tela do celular,Produto Defeituoso,MegaStore,PE,1948.12,7.1
+Entregador foi mal educado,Entrega,SuperCompras,SC,226.49,6.2
+Atendente não soube me informar,Atendimento,TechMart,GO,42.34,1.2
+Defeito na tela do celular,Produto Defeituoso,SuperCompras,PE,1780.84,6.1
+Produto não corresponde à descrição,Produto Defeituoso,SuperCompras,PE,896.4,12.5
+Não recebi o produto comprado,Entrega,SuperCompras,GO,249.07,1.3
+Taxa não informada na contratação,Cobrança Indevida,TechMart,GO,174.78,5.0
+Taxa não informada na contratação,Cobrança Indevida,MegaStore,CE,209.57,3.3
+Entrega foi feita no endereço errado,Entrega,EletroMax,PE,227.35,2.1
+Fui mal atendido na loja física,Atendimento,EletroMax,RJ,44.8,9.5
+Fui mal atendido na loja física,Atendimento,SuperCompras,RS,12.33,3.8
+Funcionário foi grosseiro e mal educado,Atendimento,SuperCompras,SP,30.15,2.8
+Produto chegou com defeito de fábrica,Produto Defeituoso,TechMart,SC,148.39,2.5
+Produto não foi entregue no prazo,Entrega,EletroMax,PE,418.13,4.3
+Produto não foi entregue no prazo,Entrega,TechMart,PR,770.64,4.3
+Produto chegou com defeito de fábrica,Produto Defeituoso,TechMart,CE,1957.62,3.2
+Produto chegou muito atrasado,Entrega,EletroMax,RJ,522.33,1.8
+Não recebi o produto comprado,Entrega,EletroMax,SP,545.88,1.4
+Não consegui resolver meu problema,Atendimento,MegaStore,PE,48.0,8.6
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,TechMart,BA,60.53,10.4
+Entrega foi feita no endereço errado,Entrega,TechMart,GO,760.67,2.5
+Produto chegou com defeito de fábrica,Produto Defeituoso,FastDelivery,MG,427.89,4.0
+Não consegui resolver meu problema,Atendimento,FastDelivery,PE,18.84,2.1
+Produto veio danificado na entrega,Produto Defeituoso,SuperCompras,BA,1847.88,3.7
+Produto não corresponde à descrição,Produto Defeituoso,FastDelivery,RS,1667.91,5.9
+Produto veio danificado na entrega,Produto Defeituoso,MegaStore,MG,937.15,7.6
+Cobrança duplicada no cartão,Cobrança Indevida,MegaStore,PR,329.96,1.1
+Entregador foi mal educado,Entrega,SuperCompras,PE,615.56,6.9
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,SuperCompras,GO,575.79,10.2
+Cobrança após cancelamento do serviço,Cobrança Indevida,SuperCompras,SP,371.21,2.4
+Produto veio danificado na entrega,Produto Defeituoso,MegaStore,RJ,1062.37,5.2
+Funcionário foi grosseiro e mal educado,Atendimento,EletroMax,PE,26.3,4.1
+Atendente não soube me informar,Atendimento,EletroMax,MG,68.34,14.0
+Funcionário foi grosseiro e mal educado,Atendimento,EletroMax,BA,57.98,12.8
+Cobraram valor a mais na fatura,Cobrança Indevida,MegaStore,SP,187.33,7.5
+Cobrança após cancelamento do serviço,Cobrança Indevida,FastDelivery,PR,49.57,2.5
+Taxa não informada na contratação,Cobrança Indevida,MegaStore,SP,164.67,6.6
+Entregador foi mal educado,Entrega,MegaStore,RS,425.14,4.0
+Produto não foi entregue no prazo,Entrega,TechMart,BA,356.62,3.7
+Produto não foi entregue no prazo,Entrega,EletroMax,MG,403.65,4.3
+Produto chegou muito atrasado,Entrega,EletroMax,SP,96.15,5.3
+Entregador foi mal educado,Entrega,FastDelivery,CE,532.92,1.9
+Defeito na tela do celular,Produto Defeituoso,TechMart,MG,157.46,13.4
+Taxa não informada na contratação,Cobrança Indevida,TechMart,MG,108.03,4.9
+Valor diferente do acordado,Cobrança Indevida,TechMart,MG,269.82,8.7
+Produto chegou com defeito de fábrica,Produto Defeituoso,FastDelivery,CE,1561.9,7.3
+Não consegui resolver meu problema,Atendimento,TechMart,SC,77.21,17.0
+Defeito na tela do celular,Produto Defeituoso,EletroMax,PR,276.73,8.5
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,MegaStore,SC,1227.81,13.2
+Valor diferente do acordado,Cobrança Indevida,MegaStore,SP,481.14,3.9
+Atendimento muito demorado no telefone,Atendimento,TechMart,PE,4.01,18.1
+Produto veio danificado na entrega,Produto Defeituoso,TechMart,BA,1674.36,10.8
+Produto veio danificado na entrega,Produto Defeituoso,EletroMax,SC,651.51,1.3
+Produto não foi entregue no prazo,Entrega,EletroMax,RS,543.91,1.1
+Cobrança após cancelamento do serviço,Cobrança Indevida,MegaStore,RJ,46.02,7.5
+Cobrança após cancelamento do serviço,Cobrança Indevida,EletroMax,SP,441.3,8.3
+Produto chegou muito atrasado,Entrega,EletroMax,BA,114.2,3.4
+Defeito na tela do celular,Produto Defeituoso,SuperCompras,GO,1226.99,8.1
+Defeito na tela do celular,Produto Defeituoso,EletroMax,GO,839.48,8.1
+Produto chegou com defeito de fábrica,Produto Defeituoso,TechMart,PR,1595.16,4.2
+Defeito na tela do celular,Produto Defeituoso,SuperCompras,SP,1864.37,12.7
+Produto veio danificado na entrega,Produto Defeituoso,SuperCompras,BA,1002.2,5.7
+Atendente não soube me informar,Atendimento,TechMart,CE,78.39,7.2
+Atendimento muito demorado no telefone,Atendimento,SuperCompras,MG,95.91,18.7
+Produto não corresponde à descrição,Produto Defeituoso,SuperCompras,SP,584.38,12.8
+Fui mal atendido na loja física,Atendimento,MegaStore,PE,22.46,10.5
+Entregador foi mal educado,Entrega,FastDelivery,GO,341.58,3.4
+Produto chegou com defeito de fábrica,Produto Defeituoso,SuperCompras,MG,1202.29,14.8
+Fui mal atendido na loja física,Atendimento,TechMart,PE,25.26,16.8
+Cobrança duplicada no cartão,Cobrança Indevida,SuperCompras,CE,260.28,8.7
+Produto veio danificado na entrega,Produto Defeituoso,EletroMax,PE,417.83,8.1
+Funcionário foi grosseiro e mal educado,Atendimento,MegaStore,PR,11.34,14.7
+Cobrança após cancelamento do serviço,Cobrança Indevida,FastDelivery,GO,419.47,3.5
+Entrega foi feita no endereço errado,Entrega,MegaStore,RS,447.57,1.9
+Atendente não soube me informar,Atendimento,MegaStore,RS,73.43,8.1
+Atendimento muito demorado no telefone,Atendimento,TechMart,PE,70.57,10.3
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,EletroMax,SP,194.64,3.7
+Cobrança após cancelamento do serviço,Cobrança Indevida,MegaStore,RJ,498.84,9.0
+Fui mal atendido na loja física,Atendimento,MegaStore,CE,99.74,6.3
+Produto chegou muito atrasado,Entrega,SuperCompras,RJ,476.78,6.4
+Fui mal atendido na loja física,Atendimento,TechMart,BA,18.79,12.9
+Atendimento muito demorado no telefone,Atendimento,MegaStore,PR,17.88,18.1
+Não consegui resolver meu problema,Atendimento,FastDelivery,SP,92.63,19.3
+Produto veio danificado na entrega,Produto Defeituoso,FastDelivery,PE,1472.56,5.9
+Funcionário foi grosseiro e mal educado,Atendimento,FastDelivery,PE,44.04,18.1
+Cobrança duplicada no cartão,Cobrança Indevida,FastDelivery,SP,273.11,9.0
+Produto não corresponde à descrição,Produto Defeituoso,SuperCompras,BA,1136.16,13.5
+Produto chegou com defeito de fábrica,Produto Defeituoso,SuperCompras,BA,562.25,3.3
+Produto não foi entregue no prazo,Entrega,FastDelivery,SP,276.08,4.6
+Entrega foi feita no endereço errado,Entrega,EletroMax,SC,468.35,5.9
+Produto chegou com defeito de fábrica,Produto Defeituoso,FastDelivery,RS,264.84,11.1
+Produto não corresponde à descrição,Produto Defeituoso,EletroMax,PR,1025.7,6.0
+Produto não corresponde à descrição,Produto Defeituoso,EletroMax,RJ,1679.78,6.8
+Produto veio danificado na entrega,Produto Defeituoso,EletroMax,GO,1079.23,8.2
+Funcionário foi grosseiro e mal educado,Atendimento,TechMart,PR,7.36,2.0
+Cobrança duplicada no cartão,Cobrança Indevida,FastDelivery,MG,286.65,7.7
+Funcionário foi grosseiro e mal educado,Atendimento,MegaStore,SP,62.08,14.7
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,FastDelivery,PE,325.97,13.4
+Cobraram valor a mais na fatura,Cobrança Indevida,TechMart,MG,425.5,9.1
+Defeito na tela do celular,Produto Defeituoso,EletroMax,SP,244.97,1.5
+Valor diferente do acordado,Cobrança Indevida,FastDelivery,MG,286.01,7.9
+Cobraram valor a mais na fatura,Cobrança Indevida,EletroMax,BA,133.79,5.0
+Entregador foi mal educado,Entrega,MegaStore,SC,740.18,3.6
+Produto não corresponde à descrição,Produto Defeituoso,SuperCompras,MG,395.95,2.5
+Entregador foi mal educado,Entrega,SuperCompras,GO,72.19,3.5
+Produto não corresponde à descrição,Produto Defeituoso,MegaStore,GO,400.31,14.4
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,SuperCompras,SC,1149.54,8.2
+Valor diferente do acordado,Cobrança Indevida,FastDelivery,PR,84.07,8.3
+Taxa não informada na contratação,Cobrança Indevida,TechMart,RJ,102.21,7.7
+Funcionário foi grosseiro e mal educado,Atendimento,TechMart,RS,15.83,14.1
+Defeito na tela do celular,Produto Defeituoso,TechMart,CE,1509.33,4.7
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,SuperCompras,RS,78.34,2.1
+Produto não corresponde à descrição,Produto Defeituoso,FastDelivery,PE,1966.03,8.4
+Não consegui resolver meu problema,Atendimento,TechMart,BA,50.39,14.5
+Produto veio danificado na entrega,Produto Defeituoso,EletroMax,CE,498.12,11.5
+Produto não corresponde à descrição,Produto Defeituoso,EletroMax,CE,938.23,1.4
+Defeito na tela do celular,Produto Defeituoso,FastDelivery,GO,622.58,6.6
+Fui mal atendido na loja física,Atendimento,EletroMax,PR,58.14,11.4
+Produto não foi entregue no prazo,Entrega,FastDelivery,CE,532.24,5.4
+Valor diferente do acordado,Cobrança Indevida,TechMart,BA,146.47,1.3
+Entregador foi mal educado,Entrega,TechMart,CE,272.72,1.7
+Defeito na tela do celular,Produto Defeituoso,FastDelivery,RJ,551.06,1.3
+Produto chegou com defeito de fábrica,Produto Defeituoso,MegaStore,RJ,891.44,4.2
+Produto não corresponde à descrição,Produto Defeituoso,FastDelivery,RJ,1884.05,13.7
+Taxa não informada na contratação,Cobrança Indevida,TechMart,RJ,217.69,7.5
+Produto não corresponde à descrição,Produto Defeituoso,FastDelivery,MG,409.23,7.1
+Produto não foi entregue no prazo,Entrega,FastDelivery,RJ,656.48,1.2
+Produto chegou com defeito de fábrica,Produto Defeituoso,MegaStore,PR,1816.41,12.7
+Atendimento muito demorado no telefone,Atendimento,MegaStore,CE,73.0,3.5
+Entregador foi mal educado,Entrega,MegaStore,SC,410.39,1.7
+Produto não foi entregue no prazo,Entrega,SuperCompras,PE,222.56,6.0
+Cobrança duplicada no cartão,Cobrança Indevida,EletroMax,RJ,294.08,4.7
+Produto não foi entregue no prazo,Entrega,MegaStore,BA,72.61,2.2
+Defeito na tela do celular,Produto Defeituoso,TechMart,SC,780.57,3.6
+Funcionário foi grosseiro e mal educado,Atendimento,FastDelivery,PE,0.85,16.9
+Cobraram valor a mais na fatura,Cobrança Indevida,MegaStore,SP,277.05,5.9
+Atendente não soube me informar,Atendimento,FastDelivery,PE,4.48,2.0
+Taxa não informada na contratação,Cobrança Indevida,TechMart,GO,446.15,1.9
+Não consegui resolver meu problema,Atendimento,MegaStore,RJ,31.66,8.6
+Produto não foi entregue no prazo,Entrega,TechMart,BA,87.91,5.2
+Valor diferente do acordado,Cobrança Indevida,EletroMax,SC,255.42,3.3
+Produto chegou muito atrasado,Entrega,SuperCompras,SP,200.28,2.6
+Defeito na tela do celular,Produto Defeituoso,TechMart,MG,653.64,5.1
+Valor diferente do acordado,Cobrança Indevida,MegaStore,GO,218.2,5.8
+Produto chegou com defeito de fábrica,Produto Defeituoso,TechMart,PE,1377.14,2.7
+Cobrança após cancelamento do serviço,Cobrança Indevida,FastDelivery,SC,330.96,7.4
+Não recebi o produto comprado,Entrega,MegaStore,SP,230.71,6.1
+Cobrança após cancelamento do serviço,Cobrança Indevida,TechMart,RS,414.46,7.9
+Defeito na tela do celular,Produto Defeituoso,TechMart,BA,270.62,5.9
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,TechMart,PE,369.64,6.3
+Entregador foi mal educado,Entrega,FastDelivery,CE,747.57,2.7
+Produto chegou muito atrasado,Entrega,SuperCompras,GO,634.24,6.0
+Entrega foi feita no endereço errado,Entrega,FastDelivery,BA,145.74,1.2
+Valor diferente do acordado,Cobrança Indevida,EletroMax,GO,81.91,5.2
+Defeito na tela do celular,Produto Defeituoso,EletroMax,BA,586.05,1.5
+Não consegui resolver meu problema,Atendimento,SuperCompras,PR,98.27,13.1
+Não consegui resolver meu problema,Atendimento,MegaStore,CE,51.62,3.9
+Produto chegou com defeito de fábrica,Produto Defeituoso,EletroMax,PE,1476.83,10.9
+Cobrança após cancelamento do serviço,Cobrança Indevida,EletroMax,MG,350.38,3.0
+Entrega foi feita no endereço errado,Entrega,EletroMax,MG,259.21,5.0
+Cobraram valor a mais na fatura,Cobrança Indevida,EletroMax,RJ,288.73,9.7
+Cobrança duplicada no cartão,Cobrança Indevida,FastDelivery,BA,456.05,1.9
+Funcionário foi grosseiro e mal educado,Atendimento,SuperCompras,SP,92.26,11.8
+Não recebi o produto comprado,Entrega,FastDelivery,RJ,564.0,1.2
+Defeito na tela do celular,Produto Defeituoso,TechMart,RS,481.41,10.5
+Taxa não informada na contratação,Cobrança Indevida,SuperCompras,PR,118.97,3.2
+Não recebi o produto comprado,Entrega,SuperCompras,PE,207.17,3.4
+Defeito na tela do celular,Produto Defeituoso,EletroMax,GO,1652.22,1.8
+Entrega foi feita no endereço errado,Entrega,MegaStore,CE,641.3,6.2
+Produto não corresponde à descrição,Produto Defeituoso,SuperCompras,GO,1717.46,5.9
+Produto não foi entregue no prazo,Entrega,TechMart,CE,61.55,5.2
+Produto não foi entregue no prazo,Entrega,EletroMax,MG,393.14,5.3
+Atendimento muito demorado no telefone,Atendimento,MegaStore,PE,70.59,18.3
+Cobrança após cancelamento do serviço,Cobrança Indevida,FastDelivery,SP,192.01,2.6
+Produto chegou com defeito de fábrica,Produto Defeituoso,FastDelivery,BA,1281.96,4.6
+Não consegui resolver meu problema,Atendimento,EletroMax,PR,15.31,1.2
+Cobraram valor a mais na fatura,Cobrança Indevida,TechMart,RS,293.92,4.9
+Atendimento muito demorado no telefone,Atendimento,SuperCompras,RJ,68.59,16.8
+Funcionário foi grosseiro e mal educado,Atendimento,SuperCompras,CE,36.97,10.2
+Cobrança duplicada no cartão,Cobrança Indevida,TechMart,PE,374.62,9.0
+Produto chegou muito atrasado,Entrega,TechMart,BA,591.85,1.3
+Entregador foi mal educado,Entrega,FastDelivery,SC,133.56,2.9
+Valor diferente do acordado,Cobrança Indevida,SuperCompras,SP,138.83,8.3
+Produto não foi entregue no prazo,Entrega,MegaStore,RS,731.2,6.8
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,FastDelivery,RJ,1271.98,10.6
+Não consegui resolver meu problema,Atendimento,SuperCompras,SP,48.27,7.3
+Atendimento muito demorado no telefone,Atendimento,FastDelivery,MG,17.17,11.1
+Fui mal atendido na loja física,Atendimento,EletroMax,BA,65.49,6.4
+Entregador foi mal educado,Entrega,MegaStore,CE,675.94,1.2
+Atendimento muito demorado no telefone,Atendimento,FastDelivery,RJ,56.12,10.0
+Entregador foi mal educado,Entrega,MegaStore,RS,504.11,5.1
+Taxa não informada na contratação,Cobrança Indevida,SuperCompras,CE,213.33,1.3
+Atendimento muito demorado no telefone,Atendimento,EletroMax,CE,11.44,6.8
+Cobraram valor a mais na fatura,Cobrança Indevida,MegaStore,MG,342.66,2.8
+Cobrança duplicada no cartão,Cobrança Indevida,FastDelivery,MG,361.76,4.5
+Cobrança duplicada no cartão,Cobrança Indevida,EletroMax,MG,80.79,4.8
+Produto chegou com defeito de fábrica,Produto Defeituoso,MegaStore,MG,1974.06,9.7
+Entrega foi feita no endereço errado,Entrega,SuperCompras,GO,215.04,5.0
+Produto chegou com defeito de fábrica,Produto Defeituoso,TechMart,MG,311.53,1.8
+Cobraram valor a mais na fatura,Cobrança Indevida,MegaStore,MG,127.43,4.1
+Produto não foi entregue no prazo,Entrega,TechMart,CE,284.34,1.1
+Atendimento muito demorado no telefone,Atendimento,SuperCompras,PR,12.03,5.4
+Fui mal atendido na loja física,Atendimento,EletroMax,GO,56.7,14.0
+Cobrança duplicada no cartão,Cobrança Indevida,TechMart,RJ,73.24,4.7
+Atendimento muito demorado no telefone,Atendimento,TechMart,PE,30.54,4.0
+Entregador foi mal educado,Entrega,EletroMax,SP,312.59,1.6
+Taxa não informada na contratação,Cobrança Indevida,FastDelivery,PR,372.03,8.8
+Funcionário foi grosseiro e mal educado,Atendimento,EletroMax,MG,34.19,4.2
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,MegaStore,SC,875.6,1.1
+Entregador foi mal educado,Entrega,TechMart,PR,571.11,5.8
+Entrega foi feita no endereço errado,Entrega,MegaStore,SP,282.61,5.0
+Fui mal atendido na loja física,Atendimento,EletroMax,MG,21.61,12.2
+Cobrança duplicada no cartão,Cobrança Indevida,FastDelivery,BA,462.3,9.8
+Funcionário foi grosseiro e mal educado,Atendimento,FastDelivery,RS,41.28,17.3
+Produto não foi entregue no prazo,Entrega,TechMart,GO,641.02,1.5
+Cobrança duplicada no cartão,Cobrança Indevida,SuperCompras,MG,26.7,6.9
+Entregador foi mal educado,Entrega,TechMart,BA,78.3,5.9
+Cobrança após cancelamento do serviço,Cobrança Indevida,SuperCompras,PE,331.63,2.5
+Produto não foi entregue no prazo,Entrega,TechMart,SP,168.06,2.4
+Cobrança duplicada no cartão,Cobrança Indevida,SuperCompras,MG,426.7,5.0
+Funcionário foi grosseiro e mal educado,Atendimento,EletroMax,PR,96.94,14.2
+Entregador foi mal educado,Entrega,EletroMax,CE,505.62,4.9
+Funcionário foi grosseiro e mal educado,Atendimento,TechMart,BA,47.94,10.8
+Fui mal atendido na loja física,Atendimento,FastDelivery,SP,20.11,4.4
+Cobrança duplicada no cartão,Cobrança Indevida,MegaStore,BA,248.84,3.4
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,SuperCompras,MG,821.7,5.2
+Cobraram valor a mais na fatura,Cobrança Indevida,MegaStore,CE,431.73,5.5
+Cobraram valor a mais na fatura,Cobrança Indevida,TechMart,PR,51.2,8.4
+Não recebi o produto comprado,Entrega,EletroMax,RS,725.79,1.7
+Fui mal atendido na loja física,Atendimento,EletroMax,CE,78.58,9.8
+Produto chegou muito atrasado,Entrega,TechMart,RJ,498.13,4.5
+Não recebi o produto comprado,Entrega,EletroMax,BA,39.57,6.3
+Não recebi o produto comprado,Entrega,SuperCompras,PR,669.13,1.3
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,TechMart,SC,728.65,13.5
+Produto não corresponde à descrição,Produto Defeituoso,TechMart,PE,1634.75,2.9
+Entregador foi mal educado,Entrega,EletroMax,RS,617.98,3.7
+Produto não foi entregue no prazo,Entrega,MegaStore,SP,396.57,5.1
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,MegaStore,RJ,806.86,3.4
+Cobrança duplicada no cartão,Cobrança Indevida,MegaStore,RJ,175.51,6.3
+Valor diferente do acordado,Cobrança Indevida,TechMart,SC,488.25,4.0
+Defeito na tela do celular,Produto Defeituoso,MegaStore,BA,1545.08,14.6
+Valor diferente do acordado,Cobrança Indevida,MegaStore,PE,50.98,6.2
+Produto chegou muito atrasado,Entrega,EletroMax,GO,651.55,3.2
+Funcionário foi grosseiro e mal educado,Atendimento,EletroMax,CE,35.64,16.8
+Fui mal atendido na loja física,Atendimento,EletroMax,RJ,50.97,8.2
+Defeito na tela do celular,Produto Defeituoso,MegaStore,MG,931.76,2.9
+Não recebi o produto comprado,Entrega,MegaStore,PE,145.39,4.4
+Atendente não soube me informar,Atendimento,SuperCompras,SC,13.03,6.9
+Cobrança duplicada no cartão,Cobrança Indevida,EletroMax,SP,34.58,7.4
+Produto chegou com defeito de fábrica,Produto Defeituoso,FastDelivery,MG,700.94,11.2
+Produto chegou muito atrasado,Entrega,EletroMax,PE,448.05,2.6
+Produto não foi entregue no prazo,Entrega,TechMart,RJ,548.61,1.7
+Cobrança duplicada no cartão,Cobrança Indevida,EletroMax,PE,457.7,7.7
+Não consegui resolver meu problema,Atendimento,TechMart,GO,74.29,14.0
+Produto não foi entregue no prazo,Entrega,MegaStore,PR,224.55,3.6
+Cobrança duplicada no cartão,Cobrança Indevida,TechMart,RJ,46.76,1.5
+Produto chegou muito atrasado,Entrega,EletroMax,CE,432.38,5.7
+Cobrança após cancelamento do serviço,Cobrança Indevida,EletroMax,PE,221.37,3.8
+Valor diferente do acordado,Cobrança Indevida,EletroMax,BA,386.74,1.2
+Atendente não soube me informar,Atendimento,FastDelivery,RS,79.92,18.1
+Produto veio danificado na entrega,Produto Defeituoso,MegaStore,SP,1957.09,14.9
+Produto chegou com defeito de fábrica,Produto Defeituoso,TechMart,PE,1744.79,8.8
+Taxa não informada na contratação,Cobrança Indevida,EletroMax,SC,20.2,6.4
+Fui mal atendido na loja física,Atendimento,TechMart,PR,88.41,9.6
+Taxa não informada na contratação,Cobrança Indevida,EletroMax,PE,252.03,3.4
+Cobrança após cancelamento do serviço,Cobrança Indevida,EletroMax,MG,254.78,8.1
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,SuperCompras,GO,916.02,11.9
+Cobrança após cancelamento do serviço,Cobrança Indevida,TechMart,BA,65.56,4.5
+Cobraram valor a mais na fatura,Cobrança Indevida,EletroMax,PE,93.04,2.6
+Atendente não soube me informar,Atendimento,EletroMax,RS,73.41,13.6
+Entregador foi mal educado,Entrega,MegaStore,GO,336.5,4.1
+Não recebi o produto comprado,Entrega,EletroMax,SP,348.16,3.4
+Entrega foi feita no endereço errado,Entrega,FastDelivery,BA,667.72,2.0
+Cobraram valor a mais na fatura,Cobrança Indevida,EletroMax,PE,443.29,5.4
+Cobrança após cancelamento do serviço,Cobrança Indevida,SuperCompras,RS,451.96,5.0
+Defeito na tela do celular,Produto Defeituoso,TechMart,SC,390.68,3.8
+Não consegui resolver meu problema,Atendimento,SuperCompras,PR,26.8,7.2
+Entregador foi mal educado,Entrega,TechMart,RS,196.17,2.0
+Cobraram valor a mais na fatura,Cobrança Indevida,FastDelivery,SP,406.23,2.2
+Atendimento muito demorado no telefone,Atendimento,TechMart,PR,53.79,6.9
+Produto chegou muito atrasado,Entrega,FastDelivery,GO,728.58,5.4
+Cobrança duplicada no cartão,Cobrança Indevida,EletroMax,SP,186.93,5.7
+Taxa não informada na contratação,Cobrança Indevida,EletroMax,CE,433.39,2.4
+Produto não foi entregue no prazo,Entrega,MegaStore,PE,405.79,1.9
+Produto veio danificado na entrega,Produto Defeituoso,EletroMax,SP,1164.69,13.6
+Atendente não soube me informar,Atendimento,SuperCompras,PR,10.22,17.0
+Produto não foi entregue no prazo,Entrega,MegaStore,MG,520.05,6.0
+Entregador foi mal educado,Entrega,TechMart,CE,248.27,5.1
+Taxa não informada na contratação,Cobrança Indevida,EletroMax,SP,280.42,9.8
+Cobrança duplicada no cartão,Cobrança Indevida,MegaStore,MG,239.37,6.5
+Taxa não informada na contratação,Cobrança Indevida,MegaStore,GO,224.0,3.5
+Produto chegou com defeito de fábrica,Produto Defeituoso,TechMart,SP,925.84,7.2
+Cobraram valor a mais na fatura,Cobrança Indevida,FastDelivery,CE,122.59,2.8
+Taxa não informada na contratação,Cobrança Indevida,FastDelivery,RJ,198.3,5.0
+Não recebi o produto comprado,Entrega,SuperCompras,CE,707.92,3.6
+Não consegui resolver meu problema,Atendimento,MegaStore,PR,49.8,11.5
+Não consegui resolver meu problema,Atendimento,EletroMax,BA,25.22,16.4
+Entrega foi feita no endereço errado,Entrega,SuperCompras,RS,450.34,1.2
+Taxa não informada na contratação,Cobrança Indevida,MegaStore,SP,276.19,2.3
+Entregador foi mal educado,Entrega,EletroMax,SP,289.43,4.5
+Entregador foi mal educado,Entrega,SuperCompras,SP,359.57,4.9
+Entrega foi feita no endereço errado,Entrega,MegaStore,CE,34.56,3.3
+Valor diferente do acordado,Cobrança Indevida,FastDelivery,MG,240.56,4.1
+Atendimento muito demorado no telefone,Atendimento,TechMart,SC,74.82,18.2
+Produto chegou muito atrasado,Entrega,EletroMax,RJ,419.68,5.3
+Entregador foi mal educado,Entrega,MegaStore,CE,681.85,1.4
+Entregador foi mal educado,Entrega,FastDelivery,PR,723.51,5.9
+Entregador foi mal educado,Entrega,SuperCompras,SP,755.8,6.0
+Cobraram valor a mais na fatura,Cobrança Indevida,TechMart,RS,122.6,6.9
+Cobrança após cancelamento do serviço,Cobrança Indevida,MegaStore,GO,407.07,5.6
+Produto não foi entregue no prazo,Entrega,FastDelivery,RJ,91.59,1.5
+Defeito na tela do celular,Produto Defeituoso,MegaStore,BA,600.2,4.3
+Produto não corresponde à descrição,Produto Defeituoso,FastDelivery,PE,341.62,2.5
+Cobraram valor a mais na fatura,Cobrança Indevida,MegaStore,RJ,379.0,2.8
+Defeito na tela do celular,Produto Defeituoso,MegaStore,SC,1716.5,4.2
+Produto não foi entregue no prazo,Entrega,EletroMax,PE,221.68,4.5
+Produto chegou com defeito de fábrica,Produto Defeituoso,EletroMax,PR,827.19,3.4
+Produto não corresponde à descrição,Produto Defeituoso,FastDelivery,BA,1424.35,5.7
+Produto chegou com defeito de fábrica,Produto Defeituoso,FastDelivery,CE,1633.36,5.5
+Produto veio danificado na entrega,Produto Defeituoso,EletroMax,MG,931.94,1.2
+Não consegui resolver meu problema,Atendimento,EletroMax,MG,66.82,18.0
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,FastDelivery,RS,836.92,2.9
+Taxa não informada na contratação,Cobrança Indevida,TechMart,CE,248.78,7.9
+Não recebi o produto comprado,Entrega,SuperCompras,SC,558.72,6.0
+Fui mal atendido na loja física,Atendimento,TechMart,GO,15.53,13.7
+Cobrança duplicada no cartão,Cobrança Indevida,FastDelivery,SP,161.26,1.8
+Valor diferente do acordado,Cobrança Indevida,MegaStore,BA,60.26,9.9
+Entrega foi feita no endereço errado,Entrega,MegaStore,SC,678.29,4.5
+Valor diferente do acordado,Cobrança Indevida,MegaStore,SC,265.54,9.5
+Cobrança após cancelamento do serviço,Cobrança Indevida,EletroMax,GO,461.69,1.4
+Entregador foi mal educado,Entrega,SuperCompras,RS,216.28,6.3
+Não recebi o produto comprado,Entrega,SuperCompras,PR,748.5,4.9
+Produto veio danificado na entrega,Produto Defeituoso,SuperCompras,PR,1074.88,8.0
+Produto chegou com defeito de fábrica,Produto Defeituoso,FastDelivery,GO,467.83,1.9
+Produto não foi entregue no prazo,Entrega,MegaStore,CE,673.38,5.7
+Produto chegou muito atrasado,Entrega,EletroMax,GO,465.48,4.9
+Taxa não informada na contratação,Cobrança Indevida,MegaStore,RJ,22.09,9.3
+Cobrança duplicada no cartão,Cobrança Indevida,MegaStore,CE,459.17,2.5
+Atendimento muito demorado no telefone,Atendimento,EletroMax,CE,93.84,18.4
+Valor diferente do acordado,Cobrança Indevida,SuperCompras,GO,367.94,7.3
+Valor diferente do acordado,Cobrança Indevida,FastDelivery,RJ,103.83,8.6
+Não recebi o produto comprado,Entrega,TechMart,PE,69.95,6.7
+Defeito na tela do celular,Produto Defeituoso,TechMart,RJ,1829.54,11.9
+Entrega foi feita no endereço errado,Entrega,MegaStore,GO,115.92,1.9
+Funcionário foi grosseiro e mal educado,Atendimento,SuperCompras,GO,83.07,3.7
+Defeito na tela do celular,Produto Defeituoso,TechMart,MG,265.44,13.1
+Cobrança após cancelamento do serviço,Cobrança Indevida,TechMart,PE,95.6,6.3
+Cobraram valor a mais na fatura,Cobrança Indevida,FastDelivery,RS,369.01,2.0
+Funcionário foi grosseiro e mal educado,Atendimento,FastDelivery,GO,6.29,14.0
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,FastDelivery,RS,810.63,13.1
+Fui mal atendido na loja física,Atendimento,MegaStore,SC,82.54,19.8
+Atendente não soube me informar,Atendimento,TechMart,BA,0.53,11.7
+Produto veio danificado na entrega,Produto Defeituoso,FastDelivery,RJ,1307.57,12.9
+Funcionário foi grosseiro e mal educado,Atendimento,FastDelivery,PE,65.46,19.1
+Produto veio danificado na entrega,Produto Defeituoso,TechMart,PR,1086.62,3.6
+Não consegui resolver meu problema,Atendimento,TechMart,RS,59.65,6.2
+Fui mal atendido na loja física,Atendimento,FastDelivery,SP,55.43,7.2
+Fui mal atendido na loja física,Atendimento,FastDelivery,PE,64.87,13.1
+Valor diferente do acordado,Cobrança Indevida,FastDelivery,MG,472.45,8.4
+Produto não corresponde à descrição,Produto Defeituoso,TechMart,MG,1375.63,8.8
+Não recebi o produto comprado,Entrega,EletroMax,PR,638.9,3.2
+Entrega foi feita no endereço errado,Entrega,EletroMax,RJ,434.53,5.3
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,TechMart,SP,834.5,3.3
+Produto chegou com defeito de fábrica,Produto Defeituoso,TechMart,PE,1335.92,13.8
+Não consegui resolver meu problema,Atendimento,MegaStore,SC,81.29,1.7
+Taxa não informada na contratação,Cobrança Indevida,MegaStore,MG,438.34,5.4
+Produto chegou muito atrasado,Entrega,SuperCompras,PE,420.88,5.8
+Fui mal atendido na loja física,Atendimento,SuperCompras,RS,71.02,7.9
+Produto veio danificado na entrega,Produto Defeituoso,FastDelivery,CE,1453.14,2.5
+Produto veio danificado na entrega,Produto Defeituoso,FastDelivery,CE,1970.06,2.9
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,SuperCompras,PE,108.54,6.6
+Atendente não soube me informar,Atendimento,FastDelivery,CE,51.67,16.6
+Cobrança duplicada no cartão,Cobrança Indevida,SuperCompras,SC,171.2,6.2
+Produto veio danificado na entrega,Produto Defeituoso,SuperCompras,SC,1436.7,5.1
+Cobrança após cancelamento do serviço,Cobrança Indevida,FastDelivery,GO,242.88,3.3
+Defeito na tela do celular,Produto Defeituoso,MegaStore,PE,1722.44,4.7
+Produto veio danificado na entrega,Produto Defeituoso,MegaStore,SC,1337.23,12.7
+Atendente não soube me informar,Atendimento,TechMart,PE,70.55,15.2
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,MegaStore,SP,910.18,11.3
+Produto veio danificado na entrega,Produto Defeituoso,EletroMax,MG,1243.71,7.1
+Fui mal atendido na loja física,Atendimento,SuperCompras,GO,87.38,3.3
+Não recebi o produto comprado,Entrega,TechMart,BA,430.14,5.6
+Atendente não soube me informar,Atendimento,MegaStore,BA,71.62,3.6
+Atendimento muito demorado no telefone,Atendimento,EletroMax,SP,43.28,10.4
+Entrega foi feita no endereço errado,Entrega,EletroMax,BA,213.96,1.3
+Valor diferente do acordado,Cobrança Indevida,MegaStore,GO,284.29,3.3
+Produto chegou com defeito de fábrica,Produto Defeituoso,EletroMax,SP,1791.35,11.1
+Produto chegou muito atrasado,Entrega,SuperCompras,GO,753.11,2.5
+Entregador foi mal educado,Entrega,FastDelivery,BA,553.02,2.5
+Produto não foi entregue no prazo,Entrega,MegaStore,CE,395.81,5.8
+Taxa não informada na contratação,Cobrança Indevida,FastDelivery,CE,115.22,9.7
+Fui mal atendido na loja física,Atendimento,MegaStore,GO,35.51,8.7
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,SuperCompras,BA,1109.77,8.0
+Atendente não soube me informar,Atendimento,TechMart,RS,16.91,3.4
+Fui mal atendido na loja física,Atendimento,TechMart,SP,24.01,11.6
+Funcionário foi grosseiro e mal educado,Atendimento,MegaStore,GO,21.9,10.4
+Atendimento muito demorado no telefone,Atendimento,MegaStore,GO,27.1,6.4
+Cobrança após cancelamento do serviço,Cobrança Indevida,FastDelivery,SP,151.48,2.8
+Não consegui resolver meu problema,Atendimento,EletroMax,MG,42.93,8.7
+Funcionário foi grosseiro e mal educado,Atendimento,TechMart,GO,70.21,14.7
+Cobrança após cancelamento do serviço,Cobrança Indevida,EletroMax,PE,477.88,8.3
+Valor diferente do acordado,Cobrança Indevida,FastDelivery,RS,424.73,5.3
+Não consegui resolver meu problema,Atendimento,FastDelivery,RS,15.3,10.6
+Atendente não soube me informar,Atendimento,MegaStore,SP,7.61,10.5
+Não consegui resolver meu problema,Atendimento,MegaStore,SC,90.89,18.9
+Produto não corresponde à descrição,Produto Defeituoso,MegaStore,SC,1096.89,13.8
+Entregador foi mal educado,Entrega,FastDelivery,CE,483.74,4.2
+Não recebi o produto comprado,Entrega,MegaStore,MG,416.11,4.1
+Não recebi o produto comprado,Entrega,MegaStore,PE,122.66,1.6
+Não recebi o produto comprado,Entrega,MegaStore,CE,644.09,1.9
+Produto chegou muito atrasado,Entrega,FastDelivery,PR,349.15,1.1
+Não consegui resolver meu problema,Atendimento,FastDelivery,PR,23.7,9.5
+Produto veio danificado na entrega,Produto Defeituoso,EletroMax,PE,1673.59,6.6
+Valor diferente do acordado,Cobrança Indevida,EletroMax,MG,383.55,4.2
+Cobraram valor a mais na fatura,Cobrança Indevida,FastDelivery,BA,390.68,4.9
+Atendimento muito demorado no telefone,Atendimento,MegaStore,PR,95.73,7.0
+Funcionário foi grosseiro e mal educado,Atendimento,EletroMax,BA,66.37,8.2
+Produto chegou com defeito de fábrica,Produto Defeituoso,FastDelivery,RS,1307.11,4.9
+Entregador foi mal educado,Entrega,FastDelivery,SC,665.5,5.9
+Entrega foi feita no endereço errado,Entrega,TechMart,RS,525.63,4.7
+Entrega foi feita no endereço errado,Entrega,FastDelivery,RJ,424.26,4.3
+Atendimento muito demorado no telefone,Atendimento,EletroMax,SC,90.22,17.6
+Não consegui resolver meu problema,Atendimento,FastDelivery,RS,2.64,16.0
+Produto não corresponde à descrição,Produto Defeituoso,MegaStore,GO,174.96,3.5
+Entrega foi feita no endereço errado,Entrega,SuperCompras,SC,156.85,3.1
+Entregador foi mal educado,Entrega,MegaStore,SP,313.24,4.3
+Produto não corresponde à descrição,Produto Defeituoso,TechMart,GO,1314.64,11.2
+Não consegui resolver meu problema,Atendimento,SuperCompras,PR,42.87,4.5
+Produto não corresponde à descrição,Produto Defeituoso,SuperCompras,SC,1628.86,10.7
+Produto não foi entregue no prazo,Entrega,MegaStore,PE,314.17,5.3
+Entregador foi mal educado,Entrega,SuperCompras,SC,384.95,5.0
+Produto não corresponde à descrição,Produto Defeituoso,TechMart,PE,1535.4,1.8
+Cobrança duplicada no cartão,Cobrança Indevida,FastDelivery,SP,175.84,4.6
+Cobrança duplicada no cartão,Cobrança Indevida,SuperCompras,GO,440.68,2.8
+Entregador foi mal educado,Entrega,SuperCompras,PE,673.32,2.0
+Entrega foi feita no endereço errado,Entrega,TechMart,CE,430.46,6.0
+Fui mal atendido na loja física,Atendimento,FastDelivery,MG,80.27,16.4
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,FastDelivery,BA,423.96,1.7
+Defeito na tela do celular,Produto Defeituoso,SuperCompras,MG,848.42,13.3
+Produto não foi entregue no prazo,Entrega,MegaStore,PE,475.12,3.3
+Atendente não soube me informar,Atendimento,MegaStore,CE,33.91,2.3
+Fui mal atendido na loja física,Atendimento,TechMart,GO,37.8,1.2
+Cobraram valor a mais na fatura,Cobrança Indevida,FastDelivery,GO,272.73,4.6
+Cobrança duplicada no cartão,Cobrança Indevida,MegaStore,SP,169.82,1.1
+Atendimento muito demorado no telefone,Atendimento,EletroMax,RS,19.88,10.7
+Produto chegou com defeito de fábrica,Produto Defeituoso,FastDelivery,SP,165.65,5.3
+Entregador foi mal educado,Entrega,EletroMax,MG,623.0,1.8
+Fui mal atendido na loja física,Atendimento,EletroMax,GO,54.91,12.1
+Produto veio danificado na entrega,Produto Defeituoso,TechMart,PR,1997.27,9.7
+Entrega foi feita no endereço errado,Entrega,FastDelivery,RJ,240.46,6.5
+Cobraram valor a mais na fatura,Cobrança Indevida,TechMart,SC,162.8,3.7
+Defeito na tela do celular,Produto Defeituoso,FastDelivery,SC,339.91,7.4
+Funcionário foi grosseiro e mal educado,Atendimento,FastDelivery,PE,56.26,3.6
+Atendente não soube me informar,Atendimento,TechMart,RS,88.76,6.4
+Produto chegou muito atrasado,Entrega,FastDelivery,CE,322.75,6.2
+Produto chegou com defeito de fábrica,Produto Defeituoso,SuperCompras,CE,1340.49,7.3
+Não recebi o produto comprado,Entrega,SuperCompras,RS,229.18,5.3
+Defeito na tela do celular,Produto Defeituoso,EletroMax,BA,667.85,11.2
+Produto não foi entregue no prazo,Entrega,FastDelivery,SC,487.28,4.9
+Cobrança duplicada no cartão,Cobrança Indevida,TechMart,PE,199.34,7.2
+Valor diferente do acordado,Cobrança Indevida,SuperCompras,PE,406.07,9.1
+Cobraram valor a mais na fatura,Cobrança Indevida,FastDelivery,PR,194.4,5.5
+Entregador foi mal educado,Entrega,EletroMax,SC,670.63,4.4
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,MegaStore,BA,956.21,9.6
+Taxa não informada na contratação,Cobrança Indevida,FastDelivery,SP,201.42,5.2
+Taxa não informada na contratação,Cobrança Indevida,TechMart,SC,302.01,1.6
+Cobrança após cancelamento do serviço,Cobrança Indevida,SuperCompras,SP,319.41,2.7
+Fui mal atendido na loja física,Atendimento,SuperCompras,SP,21.74,5.8
+Defeito na tela do celular,Produto Defeituoso,MegaStore,SC,195.75,7.4
+Não recebi o produto comprado,Entrega,FastDelivery,RJ,791.43,6.7
+Taxa não informada na contratação,Cobrança Indevida,FastDelivery,MG,128.33,1.2
+Cobraram valor a mais na fatura,Cobrança Indevida,TechMart,BA,54.24,1.6
+Não recebi o produto comprado,Entrega,FastDelivery,RJ,63.95,3.4
+Taxa não informada na contratação,Cobrança Indevida,SuperCompras,GO,67.04,7.3
+Taxa não informada na contratação,Cobrança Indevida,SuperCompras,RJ,139.26,6.8
+Entrega foi feita no endereço errado,Entrega,EletroMax,RJ,481.85,6.0
+Produto não foi entregue no prazo,Entrega,FastDelivery,PR,539.15,5.3
+Atendimento muito demorado no telefone,Atendimento,SuperCompras,CE,84.33,10.3
+Taxa não informada na contratação,Cobrança Indevida,TechMart,BA,49.52,1.5
+Entrega foi feita no endereço errado,Entrega,SuperCompras,SP,224.25,1.9
+Fui mal atendido na loja física,Atendimento,MegaStore,PE,1.42,3.9
+Atendente não soube me informar,Atendimento,MegaStore,SC,45.5,15.6
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,SuperCompras,GO,488.09,11.2
+Fui mal atendido na loja física,Atendimento,SuperCompras,PR,34.31,5.6
+Defeito na tela do celular,Produto Defeituoso,TechMart,RS,1556.37,3.4
+Fui mal atendido na loja física,Atendimento,TechMart,PR,82.78,1.4
+Entrega foi feita no endereço errado,Entrega,SuperCompras,GO,568.78,2.5
+Produto chegou muito atrasado,Entrega,MegaStore,SP,684.71,5.2
+Funcionário foi grosseiro e mal educado,Atendimento,TechMart,GO,19.05,9.4
+Cobrança duplicada no cartão,Cobrança Indevida,TechMart,PR,205.49,4.0
+Atendimento muito demorado no telefone,Atendimento,MegaStore,RS,38.55,4.0
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,SuperCompras,BA,587.34,12.2
+Fui mal atendido na loja física,Atendimento,SuperCompras,MG,80.31,16.0
+Produto não foi entregue no prazo,Entrega,SuperCompras,RJ,131.76,3.3
+Produto não corresponde à descrição,Produto Defeituoso,TechMart,BA,670.02,8.4
+Defeito na tela do celular,Produto Defeituoso,SuperCompras,PR,1847.49,6.2
+Defeito na tela do celular,Produto Defeituoso,SuperCompras,MG,1643.66,8.8
+Atendente não soube me informar,Atendimento,MegaStore,MG,3.93,6.8
+Funcionário foi grosseiro e mal educado,Atendimento,EletroMax,SP,70.62,15.9
+Cobrança após cancelamento do serviço,Cobrança Indevida,MegaStore,CE,223.64,4.8
+Atendente não soube me informar,Atendimento,MegaStore,BA,47.65,7.2
+Produto chegou com defeito de fábrica,Produto Defeituoso,FastDelivery,PE,1833.16,1.3
+Taxa não informada na contratação,Cobrança Indevida,SuperCompras,RJ,218.08,3.3
+Aparelho parou de funcionar após poucos dias,Produto Defeituoso,TechMart,MG,905.38,6.5
+Fui mal atendido na loja física,Atendimento,SuperCompras,MG,90.02,10.9
+Cobrança duplicada no cartão,Cobrança Indevida,TechMart,GO,119.25,2.8
+Não recebi o produto comprado,Entrega,MegaStore,SC,773.7,6.6
+Funcionário foi grosseiro e mal educado,Atendimento,EletroMax,RJ,21.79,13.3
+Entrega foi feita no endereço errado,Entrega,EletroMax,RJ,414.12,2.3
+Não recebi o produto comprado,Entrega,TechMart,CE,579.85,5.4
+Fui mal atendido na loja física,Atendimento,SuperCompras,GO,55.47,11.9
+Não recebi o produto comprado,Entrega,FastDelivery,MG,678.36,2.9
+Produto não corresponde à descrição,Produto Defeituoso,SuperCompras,BA,1044.62,9.7
+Valor diferente do acordado,Cobrança Indevida,FastDelivery,PE,419.28,6.9
+Entregador foi mal educado,Entrega,TechMart,BA,677.89,4.9
+Não consegui resolver meu problema,Atendimento,SuperCompras,MG,22.16,6.1
+Atendimento muito demorado no telefone,Atendimento,TechMart,PE,57.55,18.6
+Cobraram valor a mais na fatura,Cobrança Indevida,FastDelivery,BA,474.79,9.0
+Cobrança após cancelamento do serviço,Cobrança Indevida,FastDelivery,BA,106.6,7.9
+Taxa não informada na contratação,Cobrança Indevida,TechMart,PR,222.26,8.1
+Taxa não informada na contratação,Cobrança Indevida,FastDelivery,PR,216.93,2.0
+Defeito na tela do celular,Produto Defeituoso,TechMart,CE,891.72,1.7
+Atendente não soube me informar,Atendimento,TechMart,RS,64.71,1.6
+Produto chegou com defeito de fábrica,Produto Defeituoso,TechMart,PE,1537.85,9.2
+Entregador foi mal educado,Entrega,TechMart,RS,471.32,6.6

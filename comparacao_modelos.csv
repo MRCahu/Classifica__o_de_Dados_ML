@@ -1,0 +1,5 @@
+Modelo,Acurácia,F1-Score,Tempo (s)
+Random Forest,1.0,1.0,0.178785
+Logistic Regression,1.0,1.0,1.003359
+Gradient Boosting,1.0,1.0,1.14986
+SVM,0.9975,0.9975,0.55754

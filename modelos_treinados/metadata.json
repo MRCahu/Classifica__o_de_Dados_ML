@@ -1,0 +1,20 @@
+{
+  "modelo_tipo": "Random Forest",
+  "data_treinamento": "2025-07-10 21:30:14",
+  "acuracia_teste": 1.0,
+  "f1_score_teste": 1.0,
+  "cv_score_medio": 1.0,
+  "melhores_parametros": {
+    "max_depth": 10,
+    "min_samples_split": 2,
+    "n_estimators": 50
+  },
+  "classes": [
+    "Atendimento",
+    "Cobrança Indevida",
+    "Entrega",
+    "Produto Defeituoso"
+  ],
+  "total_features": 165,
+  "total_amostras_treino": 1600
+}
