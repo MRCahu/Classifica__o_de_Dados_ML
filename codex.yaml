@@ -1,0 +1,12 @@
+repo_name: Classificacao_de_Dados_ML
+description: |
+  Automatize a triagem de reclamacoes de clientes por meio de tecnicas de Machine Learning e NLP.
+  Automate customer complaint triage using Machine Learning and NLP.
+env:
+  DATA_FILE: reclamacoes_dataset.csv
+  NOTEBOOK_PATH: classificacao_reclamacoes_ml.ipynb
+  SCRIPT_PATH: executar_projeto_ml.py
+python:
+  version: '3.10'
+  requirements: requirements.txt
+use_uses_this: true
