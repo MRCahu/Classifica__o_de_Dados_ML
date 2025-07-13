@@ -27,10 +27,10 @@ Automatize a triagem de reclamações de clientes por meio de técnicas de **Mac
 
 O objetivo é **classificar automaticamente** categorias de reclamações a partir de variáveis textuais e estruturadas. O pipeline engloba:
 
-* **Limpeza & EDA** do dataset (`reclamacoes_dataset.csv`).
+* **Limpeza & EDA** do dataset (`data/reclamacoes_dataset.csv`).
 * **Pré-processamento** com `ColumnTransformer` & `Pipeline` do *scikit‑learn*.
 * Teste de múltiplos algoritmos (RandomForest, XGBoost, Logistic Regression) com *cross‑validation*.
-* **Comparação de métricas** (Accuracy, F1, ROC‑AUC) registrada em `comparacao_modelos.csv`.
+* **Comparação de métricas** (Accuracy, F1, ROC‑AUC) registrada em `data/comparacao_modelos.csv`.
 * Serialização do **modelo campeão** e *preprocessor* em `modelos_treinados/`.
 * Geração de relatórios HTML interativos para correlação, distribuição de classes e variáveis.
 
@@ -149,10 +149,10 @@ Automate customer complaint triage with **Machine Learning** & **NLP**. This rep
 
 The goal is to **automatically classify** complaint categories from text & structured variables. The pipeline covers:
 
-* **Data cleaning & EDA** (`reclamacoes_dataset.csv`).
+* **Data cleaning & EDA** (`data/reclamacoes_dataset.csv`).
 * **Pre‑processing** via `ColumnTransformer` & `Pipeline` (scikit‑learn).
 * Grid‑search across algorithms (RandomForest, XGBoost, Logistic Regression) with cross‑validation.
-* **Metric comparison** stored in `comparacao_modelos.csv`.
+* **Metric comparison** stored in `data/comparacao_modelos.csv`.
 * Serialization of the **best model** and pre‑processor to `modelos_treinados/`.
 * Generation of interactive HTML reports for correlation, class distribution & variables.
 

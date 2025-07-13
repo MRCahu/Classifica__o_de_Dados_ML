@@ -300,7 +300,7 @@ for i, (pred, prob_max) in enumerate(zip(predicoes_labels, probabilidades.max(ax
 
 # 12. SALVAMENTO DOS MODELOS
 print("\n💾 10. SALVAMENTO DOS MODELOS...")
-model_dir = '/home/ubuntu/modelos_treinados'
+model_dir = 'modelos_treinados'
 os.makedirs(model_dir, exist_ok=True)
 
 # Salvando componentes
@@ -341,7 +341,7 @@ with open(os.path.join(model_dir, 'feature_bins.json'), 'w') as f:
 print(f"✅ Modelos salvos em: {model_dir}")
 
 # Salvando dataset e resultados
-df.to_csv('/home/ubuntu/reclamacoes_dataset.csv', index=False)
+df.to_csv('data/reclamacoes_dataset.csv', index=False)
 
 resultados_finais = pd.DataFrame({
     'Modelo': list(results.keys()),
@@ -350,7 +350,7 @@ resultados_finais = pd.DataFrame({
     'Tempo (s)': [results[m]['training_time'] for m in results.keys()]
 }).sort_values('F1-Score', ascending=False)
 
-resultados_finais.to_csv('/home/ubuntu/comparacao_modelos.csv', index=False)
+resultados_finais.to_csv('data/comparacao_modelos.csv', index=False)
 
 print("\n🎉 PROJETO CONCLUÍDO COM SUCESSO!")
 print("=" * 50)
